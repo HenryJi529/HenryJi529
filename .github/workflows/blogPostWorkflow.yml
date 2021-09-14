@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+
+on:
+  push:
+  schedule:
+    # Runs every 08:00
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://morningstar529.com/blog/rss/"
