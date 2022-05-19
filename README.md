@@ -42,7 +42,6 @@
 <img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/python.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/django.svg" alt="django" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
