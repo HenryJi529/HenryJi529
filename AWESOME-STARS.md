@@ -33,6 +33,7 @@
 
 ## HTML 
 
+- [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
 - [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 基于Django的个人网站
 - [SuperSimpleDev/html-css-course-2022](https://github.com/SuperSimpleDev/html-css-course-2022) - 
