@@ -71,6 +71,7 @@
 
 ## Python 
 
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
 - [zaxtyson/LanZouCloud-API](https://github.com/zaxtyson/LanZouCloud-API) - 蓝奏云网盘第三方 API
