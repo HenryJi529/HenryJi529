@@ -15,8 +15,11 @@
 - [MATLAB](#matlab)
 - [Others](#others)
 - [Python](#python)
+- [SVG](#svg)
+- [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vim script](#vim-script)
 - [Vue](#vue)
 
 ## Assembly 
@@ -53,7 +56,6 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [certsimple/deploy-node-on-linux](https://github.com/certsimple/deploy-node-on-linux) - Generate a Cloud Init file to deploy a node app on Linux. Works with all major cloud providers.
 - [allanguys/font-spider-plus](https://github.com/allanguys/font-spider-plus) - font-spider-plus（字蛛+）是一个智能 WebFont 压缩工具，它能自动分析出本地页面和线上页面使用的 WebFont 并进行按需压缩。
 - [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
@@ -90,6 +92,14 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
+## SVG 
+
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners!
+
+## Shell 
+
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
 ## TeX 
 
 - [HenryJi529/MorningstarPaper](https://github.com/HenryJi529/MorningstarPaper) - LaTex论文模版
@@ -98,6 +108,10 @@
 
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+
+## Vim script 
+
+- [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Vue 
 
