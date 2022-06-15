@@ -17,6 +17,7 @@
 - [Python](#python)
 - [SVG](#svg)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
@@ -81,6 +82,7 @@
 
 ## Python 
 
+- [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
@@ -99,6 +101,10 @@
 ## Shell 
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+## Swift 
+
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷Lightweight Markdown app to help you write great sentences.
 
 ## TeX 
 
