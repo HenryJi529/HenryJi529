@@ -119,13 +119,6 @@ JavaScript   1 hr 57 mins    █▒░░░░░░░░░░░░░░░
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jishanshaikh4">
-        <img src="https://avatars2.githubusercontent.com/u/30091032" width="100px;" alt="jishanshaikh4"/>
-      </a>
-      <br />
-      <a href="https://github.com/jishanshaikh4">Jishan Shaikh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
