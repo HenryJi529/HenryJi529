@@ -42,6 +42,7 @@
 
 ## HTML 
 
+- [bboczeng/PyLab](https://github.com/bboczeng/PyLab) - A totally, totally, totally no install, no download, no config web based scientific computing platform that actually supports Python
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
@@ -76,6 +77,7 @@
 
 ## Others 
 
+- [bboczeng/why-you-do-not-need-hedgehog-lab](https://github.com/bboczeng/why-you-do-not-need-hedgehog-lab) - best setup tutorial for GPU enabled Python programming, for people who don't want to play with command lines, and don't even know how to program.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
