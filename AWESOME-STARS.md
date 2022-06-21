@@ -42,7 +42,7 @@
 
 ## HTML 
 
-- [bboczeng/PyLab](https://github.com/bboczeng/PyLab) - A totally, totally, totally no install, no download, no config web based scientific computing platform that actually supports Python
+- [Cat-Computing-Universe/PyLab](https://github.com/Cat-Computing-Universe/PyLab) - A totally, totally, totally no install, no download, no config web based scientific computing platform that actually supports Python
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - Qiniu Cloud JavaScript SDK
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -85,6 +86,7 @@
 
 ## Python 
 
+- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) - Qiniu Resource (Cloud) Storage SDK for Python
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
