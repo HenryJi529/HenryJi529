@@ -42,6 +42,7 @@
 
 ## HTML 
 
+- [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 晨星小站
 - [Cat-Computing-Universe/PyLab](https://github.com/Cat-Computing-Universe/PyLab) - A totally, totally, totally no install, no download, no config web based scientific computing platform that actually supports Python
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
@@ -85,6 +86,7 @@
 
 ## Python 
 
+- [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [qiniu/python-sdk](https://github.com/qiniu/python-sdk) - Qiniu Resource (Cloud) Storage SDK for Python
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
