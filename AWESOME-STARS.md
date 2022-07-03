@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - Qiniu Cloud JavaScript SDK
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
