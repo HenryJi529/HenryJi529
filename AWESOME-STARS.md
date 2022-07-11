@@ -5,71 +5,38 @@
 
 ## Contents
 
-- [Assembly](#assembly)
-- [C](#c)
 - [C++](#c++)
-- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
 - [Others](#others)
 - [Python](#python)
-- [SVG](#svg)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
-- [Vue](#vue)
-
-## Assembly 
-
-- [HenryJi529/DOSBoxPractice](https://github.com/HenryJi529/DOSBoxPractice) - 汇编语言练习(mac)
-
-## C 
-
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 
 ## C++ 
 
-- [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-
-## Go 
-
-- [gitploy-io/gitploy](https://github.com/gitploy-io/gitploy) - Build the deployment system around GitHub in minutes.
 
 ## HTML 
 
-- [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 晨星小站
-- [Cat-Computing-Universe/PyLab](https://github.com/Cat-Computing-Universe/PyLab) - A totally, totally, totally no install, no download, no config web based scientific computing platform that actually supports Python
-- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-- [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
-- [SuperSimpleDev/html-css-course-2022](https://github.com/SuperSimpleDev/html-css-course-2022) - 
 - [roy-tian/learning-area](https://github.com/roy-tian/learning-area) - MDN 学习区示例中文版
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 
 ## JavaScript 
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - Qiniu Cloud JavaScript SDK
-- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
-- [certsimple/deploy-node-on-linux](https://github.com/certsimple/deploy-node-on-linux) - Generate a Cloud Init file to deploy a node app on Linux. Works with all major cloud providers.
-- [allanguys/font-spider-plus](https://github.com/allanguys/font-spider-plus) - font-spider-plus（字蛛+）是一个智能 WebFont 压缩工具，它能自动分析出本地页面和线上页面使用的 WebFont 并进行按需压缩。
-- [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
 ## Jupyter Notebook 
 
@@ -81,7 +48,6 @@
 
 ## Others 
 
-- [bboczeng/why-you-do-not-need-hedgehog-lab](https://github.com/bboczeng/why-you-do-not-need-hedgehog-lab) - best setup tutorial for GPU enabled Python programming, for people who don't want to play with command lines, and don't even know how to program.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -89,24 +55,15 @@
 
 ## Python 
 
+- [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) - Qiniu Resource (Cloud) Storage SDK for Python
-- [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
-- [zaxtyson/LanZouCloud-API](https://github.com/zaxtyson/LanZouCloud-API) - 蓝奏云网盘第三方 API
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-- [elastic/enterprise-search-python](https://github.com/elastic/enterprise-search-python) - Official Python client for Elastic Enterprise Search, App Search, and Workplace Search
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## SVG 
-
-- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners!
 
 ## Shell 
 
@@ -116,26 +73,17 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
-## Swift 
-
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-
 ## TeX 
 
 - [HenryJi529/MorningstarPaper](https://github.com/HenryJi529/MorningstarPaper) - LaTex论文模版
 
 ## TypeScript 
 
-- [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vim script 
 
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Vue 
-
-- [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
 
 ## License
