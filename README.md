@@ -32,21 +32,21 @@
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/mathematica.png" alt="mathematica" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/linux.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/C.png" alt="c" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/python.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+<img src="https://daisyui.com/favicon.ico" alt="daisyui" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/django.svg" alt="django" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/docker.png" alt="docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/nginx.svg" alt="nginx" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
 </p>
 
 ---
@@ -55,16 +55,16 @@
 
 <p>
   <a href="https://twitter.com/HenryJi529" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/twitter.svg" alt="推特" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="推特" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.cn/injobs/in/ji-henry-3b7647175" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/linkedin.svg" alt="领英" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="领英" height="30" width="30" />
   </a>
   <a href="mailto:jeep.jipu@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/gmail.svg" alt="邮箱" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="邮箱" height="30" width="30" />
   </a>
   <a href="https://www.zhihu.com/people/er-dai-qing-zhi" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/HenryJi529/HenryJi529/assets/zhihu.svg" style="color: #0084FF" alt="知乎" height="30" width="30" />
+    <img align="center" src="https://static.zhihu.com/heifetz/favicon.ico" style="color: #0084FF" alt="知乎" height="30" width="30" />
   </a>
 </p>
 
