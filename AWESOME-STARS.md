@@ -7,6 +7,7 @@
 
 - [C++](#c++)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
@@ -25,12 +26,16 @@
 ## HTML 
 
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
-- [roy-tian/learning-area](https://github.com/roy-tian/learning-area) - MDN 学习区示例中文版
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 
+## Java 
+
+- [rentianle2022/LipsticksGeek-BackEnd](https://github.com/rentianle2022/LipsticksGeek-BackEnd) - LipsticksGeek后端开发
+
 ## JavaScript 
 
+- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
 - [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
