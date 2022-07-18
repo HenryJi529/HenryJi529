@@ -95,12 +95,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown                   4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-JSON                       3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Nginx configuration file   3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-YAML                       2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-SCSS                       2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-HTML                       2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Nginx configuration file   5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Markdown                   3 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+JSON                       2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+YAML                       2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+SCSS                       1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Other                      1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
