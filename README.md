@@ -73,7 +73,7 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[笑话] 苏联笑话](http://morningstar529.com/blog/posts/1/)
+- [[draft] Nginx 学习笔记](http://morningstar529.com/blog/posts/1/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
