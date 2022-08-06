@@ -26,6 +26,7 @@
 
 ## HTML 
 
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
