@@ -38,6 +38,7 @@
 
 ## JavaScript 
 
+- [arronhunt/highlightjs-copy](https://github.com/arronhunt/highlightjs-copy) - 📋❇️ A simple, accessible highlightjs plugin to add a copy button to your code blocks.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
