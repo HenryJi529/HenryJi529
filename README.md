@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] 工具使用技巧](http://morningstar529.com/blog/posts/6/)
-- [[学习笔记] Web全栈知识体系](http://morningstar529.com/blog/posts/5/)
-- [[学习笔记] Docker常见命令整理](http://morningstar529.com/blog/posts/4/)
-- [[学习笔记] Nginx 学习笔记](http://morningstar529.com/blog/posts/2/)
+- [[学习笔记] 工具使用技巧](http://morningstar529.com/posts/6/)
+- [[学习笔记] Web全栈知识体系](http://morningstar529.com/posts/5/)
+- [[学习笔记] Docker常见命令整理](http://morningstar529.com/posts/4/)
+- [[学习笔记] Nginx 学习笔记](http://morningstar529.com/posts/2/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
