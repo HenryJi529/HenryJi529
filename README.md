@@ -129,6 +129,13 @@ JavaScript                 1 hr 7 mins     █░░░░░░░░░░░�
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
+      <a href="https://github.com/cumsoft">
+        <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
+      </a>
+      <br />
+      <a href="https://github.com/cumsoft">Cumsoft™</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lilaroky">
         <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>
       </a>
@@ -156,6 +163,15 @@ JavaScript                 1 hr 7 mins     █░░░░░░░░░░░�
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/MartinGurasvili">
+        <img src="https://avatars2.githubusercontent.com/u/76784461" width="100px;" alt="MartinGurasvili"/>
+      </a>
+      <br />
+      <a href="https://github.com/MartinGurasvili">Martin Gurasvili</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/franicon">
         <img src="https://avatars2.githubusercontent.com/u/62854860" width="100px;" alt="franicon"/>
