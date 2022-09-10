@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -22,6 +23,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## C 
+
+- [igraph/igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
 
 ## C# # 
 
@@ -45,6 +50,7 @@
 
 ## Java 
 
+- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [rentianle2022/LipsticksGeek-BackEnd](https://github.com/rentianle2022/LipsticksGeek-BackEnd) - LipsticksGeek后端开发
 
 ## JavaScript 
