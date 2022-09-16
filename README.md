@@ -161,15 +161,6 @@ Other        24 mins         █░░░░░░░░░░░░░░░░
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MartinGurasvili">
-        <img src="https://avatars2.githubusercontent.com/u/76784461" width="100px;" alt="MartinGurasvili"/>
-      </a>
-      <br />
-      <a href="https://github.com/MartinGurasvili">Martin Gurasvili</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/franicon">
         <img src="https://avatars2.githubusercontent.com/u/62854860" width="100px;" alt="franicon"/>
       </a>
