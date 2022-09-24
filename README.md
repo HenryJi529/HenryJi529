@@ -73,7 +73,7 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] Sass学习笔记](http://morningstar529.com/posts/1/)
+- [[学习笔记] Nginx 学习笔记](http://morningstar529.com/posts/1/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
