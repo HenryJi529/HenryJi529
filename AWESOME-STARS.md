@@ -89,6 +89,7 @@
 
 ## Python 
 
+- [csuldw/AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
