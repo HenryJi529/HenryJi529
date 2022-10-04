@@ -55,6 +55,7 @@
 
 ## JavaScript 
 
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [digitalfortress-tech/localstorage-slim](https://github.com/digitalfortress-tech/localstorage-slim) - An ultra slim localstorage wrapper with optional support for ttl and encryption
 - [arronhunt/highlightjs-copy](https://github.com/arronhunt/highlightjs-copy) - 📋❇️ A simple, accessible highlightjs plugin to add a copy button to your code blocks.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
@@ -89,6 +90,7 @@
 
 ## Python 
 
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [csuldw/AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
