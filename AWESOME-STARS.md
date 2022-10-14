@@ -55,6 +55,7 @@
 
 ## JavaScript 
 
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [digitalfortress-tech/localstorage-slim](https://github.com/digitalfortress-tech/localstorage-slim) - An ultra slim localstorage wrapper with optional support for ttl and encryption
