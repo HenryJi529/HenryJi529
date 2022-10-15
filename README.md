@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] Django项目之提升SEO](http://morningstar529.com/posts/6/)
 - [[学习笔记] Sass学习笔记](http://morningstar529.com/posts/4/)
 - [[命令速查] Git常见命令整理](http://morningstar529.com/posts/5/)
 - [[学习笔记] 考研政治考点整理](http://morningstar529.com/posts/3/)
-- [[命令速查] Docker常见命令整理](http://morningstar529.com/posts/2/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
