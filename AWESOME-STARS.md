@@ -93,6 +93,7 @@
 
 ## Python 
 
+- [aharley/pips](https://github.com/aharley/pips) - Particle Video Revisited
 - [qcloudsms/qcloudsms_py](https://github.com/qcloudsms/qcloudsms_py) - qcloudsms Python SDK
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [csuldw/AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
