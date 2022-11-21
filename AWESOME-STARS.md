@@ -21,6 +21,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -132,6 +133,10 @@
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+
+## TeX 
+
+- [HenryJi529/MorningstarPaper](https://github.com/HenryJi529/MorningstarPaper) - 一个功能齐全的工科论文模版
 
 ## TypeScript 
 
