@@ -18,7 +18,6 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
-- [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TeX](#tex)
@@ -63,6 +62,7 @@
 
 ## JavaScript 
 
+- [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -122,10 +122,6 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
-## Rust 
-
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
-
 ## Shell 
 
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
@@ -146,6 +142,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
