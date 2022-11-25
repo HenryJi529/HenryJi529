@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] 现代信号处理学习笔记](http://morningstar369.com/posts/8/)
-- [[生产力++] 效率工具使用技巧](http://morningstar369.com/posts/7/)
-- [[学习笔记] Sass学习笔记](http://morningstar369.com/posts/3/)
-- [[学习笔记] Git常见命令整理](http://morningstar369.com/posts/6/)
+- [[学习笔记] Django项目之提升SEO](http://morningstar369.com/posts/1/)
+- [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
+- [[学习笔记] 编程素养之代码可读性](http://morningstar369.com/posts/9/)
+- [[学习笔记] Web开发常见概念](http://morningstar369.com/posts/11/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
