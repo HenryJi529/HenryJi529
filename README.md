@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[趣谈漫聊] 测试ChatGPT的&quot;政治立场&quot;](http://morningstar369.com/posts/13/)
 - [[学习笔记] Django项目之提升SEO](http://morningstar369.com/posts/1/)
 - [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
 - [[学习笔记] 编程素养之代码可读性](http://morningstar369.com/posts/9/)
-- [[学习笔记] Web开发常见概念](http://morningstar369.com/posts/11/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
