@@ -17,6 +17,7 @@
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -50,6 +51,7 @@
 
 ## HTML 
 
+- [zwying0814/zwying.com](https://github.com/zwying0814/zwying.com) - 个人主页站点
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
@@ -98,6 +100,7 @@
 
 ## Others 
 
+- [yinweiaza/yw](https://github.com/yinweiaza/yw) - 
 - [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 - [ssnhd/googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
@@ -106,6 +109,10 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+## PHP 
+
+- [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 
 ## Python 
 
@@ -129,7 +136,7 @@
 
 ## Rust 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 A simple way to make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
 ## Shell 
 
