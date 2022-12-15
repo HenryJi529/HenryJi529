@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -39,6 +40,10 @@
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+
+## CSS 
+
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## Dockerfile 
 
