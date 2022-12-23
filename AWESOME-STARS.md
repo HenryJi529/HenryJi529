@@ -175,6 +175,7 @@
 
 ## Vue 
 
+- [harblaith7/Vue3-Crash-Course](https://github.com/harblaith7/Vue3-Crash-Course) - 
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
