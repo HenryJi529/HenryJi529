@@ -100,9 +100,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.86 %
-Vue.js       5 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 %
-Other        1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Python       11 hrs 19 mins  ████████████████▓░░░░░░░░   66.67 %
+Other        1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
 ```
 
 <!--END_SECTION:waka-->
