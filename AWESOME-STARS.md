@@ -158,6 +158,7 @@
 
 ## TypeScript 
 
+- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 《Vue3 入门指南与实战案例》，关于前端工程化、 TypeScript 、 Vue 3 以及 Pinia 的入门学习指南。
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
