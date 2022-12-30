@@ -70,6 +70,7 @@
 
 ## JavaScript 
 
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [raman-at-pieces/youtube-bookmarker-finished-code](https://github.com/raman-at-pieces/youtube-bookmarker-finished-code) - 
 - [CNValues/cnvalues.github.io](https://github.com/CNValues/cnvalues.github.io) - 
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
