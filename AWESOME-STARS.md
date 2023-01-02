@@ -122,6 +122,7 @@
 
 ## Python 
 
+- [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 晨星小站
 - [aharley/pips](https://github.com/aharley/pips) - Particle Video Revisited
