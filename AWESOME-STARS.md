@@ -5,12 +5,7 @@
 
 ## Contents
 
-- [C](#c)
-- [C#](#c#)
-- [C++](#c++)
-- [CSS](#css)
 - [Dockerfile](#dockerfile)
-- [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -18,77 +13,29 @@
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
-- [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
-- [Vue](#vue)
-
-## C 
-
-- [igraph/igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-
-## C# # 
-
-- [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
-
-## C++ 
-
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
-
-## CSS 
-
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## Dockerfile 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
-## Go 
-
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files.
-
 ## HTML 
 
-- [zwying0814/zwying.com](https://github.com/zwying0814/zwying.com) - 个人主页站点
-- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-- [fhsinchy/nginx-handbook-projects](https://github.com/fhsinchy/nginx-handbook-projects) - Project codes used in "The NGINX Handbook"
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 
 ## Java 
 
-- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [rentianle2022/LipsticksGeek-BackEnd](https://github.com/rentianle2022/LipsticksGeek-BackEnd) - LipsticksGeek后端开发
 
 ## JavaScript 
 
-- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [raman-at-pieces/youtube-bookmarker-finished-code](https://github.com/raman-at-pieces/youtube-bookmarker-finished-code) - 
-- [CNValues/cnvalues.github.io](https://github.com/CNValues/cnvalues.github.io) - 
-- [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
-- [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [digitalfortress-tech/localstorage-slim](https://github.com/digitalfortress-tech/localstorage-slim) - An ultra slim localstorage wrapper with optional support for ttl and encryption
-- [arronhunt/highlightjs-copy](https://github.com/arronhunt/highlightjs-copy) - 📋❇️ A simple, accessible highlightjs plugin to add a copy button to your code blocks.
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
-- [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-- [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [CNValues/cnvalues.github.io](https://github.com/CNValues/cnvalues.github.io) - 
+- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
+- [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 
 ## Jupyter Notebook 
 
@@ -102,57 +49,22 @@
 ## Markdown 
 
 - [chengpeiquan/cooking-cookbook](https://github.com/chengpeiquan/cooking-cookbook) - 关于如何下厨烹饪的菜谱和教程，我是小红书美食博主 @底迪 。
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Others 
 
-- [yinweiaza/yw](https://github.com/yinweiaza/yw) - 
-- [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
-- [ssnhd/googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
-- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
+- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-## PHP 
-
-- [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 
 ## Python 
 
-- [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 晨星小站
-- [aharley/pips](https://github.com/aharley/pips) - Particle Video Revisited
-- [qcloudsms/qcloudsms_py](https://github.com/qcloudsms/qcloudsms_py) - qcloudsms Python SDK
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [csuldw/AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
-- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
-- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-- [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
-- [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-- [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
-- [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
-- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## Rust 
-
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
 ## Shell 
 
-- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-## Svelte 
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 ## TeX 
 
@@ -160,27 +72,9 @@
 
 ## TypeScript 
 
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 《Vue3 入门指南与实战案例》，关于前端工程化、 TypeScript 、 Vue 3 以及 Pinia 的入门学习指南。
-- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
-- [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
-- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-
-## Vim Script 
-
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Vue 
-
-- [harblaith7/Vue3-Crash-Course](https://github.com/harblaith7/Vue3-Crash-Course) - 
-- [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
 ## License
