@@ -10,12 +10,10 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [MATLAB](#matlab)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 
 ## Dockerfile 
@@ -42,33 +40,23 @@
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
-## MATLAB 
-
-- [HenryJi529/MachineLearningCrashCourse](https://github.com/HenryJi529/MachineLearningCrashCourse) - Coursera上超火的机器学习课程的课后作业
-
 ## Markdown 
 
 - [chengpeiquan/cooking-cookbook](https://github.com/chengpeiquan/cooking-cookbook) - 关于如何下厨烹饪的菜谱和教程，我是小红书美食博主 @底迪 。
 
 ## Others 
 
-- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## Python 
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [HenryJi529/OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar) - 晨星小站
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 
 ## Shell 
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-## TeX 
-
-- [HenryJi529/MorningstarPaper](https://github.com/HenryJi529/MorningstarPaper) - 一个功能齐全的工科论文模版
 
 ## TypeScript 
 
