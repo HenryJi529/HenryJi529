@@ -5,68 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
-- [Dockerfile](#dockerfile)
-- [HTML](#html)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
-- [Markdown](#markdown)
-- [Others](#others)
-- [Python](#python)
-- [Shell](#shell)
-- [TypeScript](#typescript)
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-## Dockerfile 
-
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-## HTML 
-
-- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-
-## Java 
-
-- [rentianle2022/LipsticksGeek-BackEnd](https://github.com/rentianle2022/LipsticksGeek-BackEnd) - LipsticksGeek后端开发
-
-## JavaScript 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [CNValues/cnvalues.github.io](https://github.com/CNValues/cnvalues.github.io) - 
-- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-- [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-## Jupyter Notebook 
-
-- [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
-
-## Markdown 
-
-- [chengpeiquan/cooking-cookbook](https://github.com/chengpeiquan/cooking-cookbook) - 关于如何下厨烹饪的菜谱和教程，我是小红书美食博主 @底迪 。
-
-## Others 
-
-- [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-## Python 
-
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
-
-## Shell 
-
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-## TypeScript 
-
-- [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 《Vue3 入门指南与实战案例》，关于前端工程化、 TypeScript 、 Vue 3 以及 Pinia 的入门学习指南。
-- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 
 
 ## License
