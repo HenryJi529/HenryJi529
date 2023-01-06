@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] Web开发常见概念](http://morningstar369.com/posts/11/)
+- [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
 - [[学习笔记] Web全栈知识体系](http://morningstar369.com/posts/10/)
-- [[趣谈漫聊] 测试ChatGPT的&quot;政治立场&quot;](http://morningstar369.com/posts/13/)
-- [[学习笔记] Django项目之提升SEO](http://morningstar369.com/posts/1/)
+- [[文献阅读] 湍流下的水下光学无线通信的SIMO检测方案](http://morningstar369.com/posts/14/)
+- [[学习笔记] Web开发常见概念](http://morningstar369.com/posts/11/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
