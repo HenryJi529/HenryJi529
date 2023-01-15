@@ -88,10 +88,6 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=OpenMorningstar"
 			alt="OpenMorningstar Card" width="45%" />
 	</a>
-	<a href="https://github.com/HenryJi529/MorningstarPaper">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=MorningstarPaper"
-			alt="MorningstarPaper Card"  width="45%" />
-	</a>
 </div>
 
 ---
