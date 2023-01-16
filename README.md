@@ -169,6 +169,13 @@ Other          1 hr 2 mins     ▓░░░░░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Ericsoo56">
+        <img src="https://avatars2.githubusercontent.com/u/117961705" width="100px;" alt="Ericsoo56"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ericsoo56">Ericsoo56</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/franicon">
         <img src="https://avatars2.githubusercontent.com/u/62854860" width="100px;" alt="franicon"/>
       </a>
