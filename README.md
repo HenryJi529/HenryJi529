@@ -177,6 +177,13 @@ CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░
       <a href="https://github.com/Ericsoo56">Ericsoo56</a>
     </td>
     <td align="center">
+      <a href="https://github.com/PearlyWave">
+        <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
+      </a>
+      <br />
+      <a href="https://github.com/PearlyWave">Eric Ji</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/franicon">
         <img src="https://avatars2.githubusercontent.com/u/62854860" width="100px;" alt="franicon"/>
       </a>
