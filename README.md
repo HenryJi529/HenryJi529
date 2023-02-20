@@ -157,20 +157,20 @@ Other        1 hr 4 mins     ███░░░░░░░░░░░░░░
       <a href="https://github.com/pinhe91">寒梅</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rohit-ghadge">
-        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
-      </a>
-      <br />
-      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Ericsoo56">
         <img src="https://avatars2.githubusercontent.com/u/117961705" width="100px;" alt="Ericsoo56"/>
       </a>
       <br />
       <a href="https://github.com/Ericsoo56">Ericsoo56</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rohit-ghadge">
+        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
+      </a>
+      <br />
+      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
       <a href="https://github.com/PearlyWave">
