@@ -161,7 +161,7 @@ Other    28 mins         ████▒░░░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/117961705" width="100px;" alt="Ericsoo56"/>
       </a>
       <br />
-      <a href="https://github.com/Ericsoo56">Ericsoo56</a>
+      <a href="https://github.com/Ericsoo56">苏冀</a>
     </td>
   </tr>
   <tr>
