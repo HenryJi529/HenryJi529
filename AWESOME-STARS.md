@@ -5,6 +5,11 @@
 
 ## Contents
 
+- [Python](#python)
+
+## Python 
+
+- [FFrankyy/FINDER](https://github.com/FFrankyy/FINDER) - FINDER - FInding key players in complex Networks through DEep Reinforcement learning (Nature Machine Intelligence)
 
 
 ## License
