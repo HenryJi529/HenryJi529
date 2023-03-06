@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] 数值分析学习笔记](http://morningstar369.com/posts/16/)
 - [[学习笔记] Web全栈知识体系](http://morningstar369.com/posts/10/)
 - [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[学习笔记] 驾考科目一速记手册](http://morningstar369.com/posts/14/)
-- [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
