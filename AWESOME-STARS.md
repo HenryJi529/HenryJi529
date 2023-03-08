@@ -5,8 +5,13 @@
 
 ## Contents
 
+- [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
+
+## Jupyter Notebook 
+
+- [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 
 ## Others 
 
