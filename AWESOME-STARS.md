@@ -15,6 +15,7 @@
 
 ## Others 
 
+- [PearlyWave/blogs-hashnode](https://github.com/PearlyWave/blogs-hashnode) - A place to backup my blogs on hashnode
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 
 ## Python 
