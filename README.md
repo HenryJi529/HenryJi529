@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] 科研常识笔记](http://morningstar369.com/posts/18/)
 - [[学习笔记] 考研英语词汇660](http://morningstar369.com/posts/17/)
 - [[学习笔记] 数值分析学习笔记](http://morningstar369.com/posts/16/)
 - [[学习笔记] Web全栈知识体系](http://morningstar369.com/posts/10/)
-- [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
