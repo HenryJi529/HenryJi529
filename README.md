@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] 机器学习常见问题](http://morningstar369.com/posts/19/)
-- [[学习笔记] 科研常识笔记](http://morningstar369.com/posts/18/)
+- [[学习笔记] 英语作文词汇](http://morningstar369.com/posts/21/)
 - [[学习笔记] 考研英语词汇660](http://morningstar369.com/posts/17/)
-- [[学习笔记] 数值分析学习笔记](http://morningstar369.com/posts/16/)
+- [[文献阅读] 湍流下的水下光学无线通信的SIMO检测方案](http://morningstar369.com/posts/20/)
+- [[学习笔记] 机器学习常见问题](http://morningstar369.com/posts/19/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
