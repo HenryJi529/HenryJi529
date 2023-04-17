@@ -15,6 +15,7 @@
 
 ## Python 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [FFrankyy/FINDER](https://github.com/FFrankyy/FINDER) - FINDER - FInding key players in complex Networks through DEep Reinforcement learning (Nature Machine Intelligence)
 
 
