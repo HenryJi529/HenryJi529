@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] 图机器学习笔记](http://morningstar369.com/posts/24/)
 - [[学习笔记] 数据降维技术对比](http://morningstar369.com/posts/23/)
 - [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[学习笔记] 图表示学习笔记](http://morningstar369.com/posts/22/)
-- [[学习笔记] 英语作文词汇](http://morningstar369.com/posts/21/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
