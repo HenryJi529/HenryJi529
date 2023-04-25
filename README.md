@@ -95,8 +95,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Docker       1 hr 53 mins    ████████▓░░░░░░░░░░░░░░░░   34.19 %
-Other        1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   28.44 %
+Python       4 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.54 %
+Docker       1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Other        1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 
 <!--END_SECTION:waka-->
