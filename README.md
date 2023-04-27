@@ -74,8 +74,8 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] 图机器学习笔记](http://morningstar369.com/posts/24/)
 - [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
+- [[学习笔记] 图机器学习笔记](http://morningstar369.com/posts/24/)
 - [[生产力++] 效率工具使用技巧](http://morningstar369.com/posts/7/)
 - [[学习笔记] 数据降维技术对比](http://morningstar369.com/posts/23/)
 <!-- BLOG-POST-LIST:END -->
