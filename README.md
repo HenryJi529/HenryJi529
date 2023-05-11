@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] 机器学习常见问题](http://morningstar369.com/posts/19/)
-- [[学习笔记] 强化学习笔记](http://morningstar369.com/posts/25/)
-- [[学习笔记] 图机器学习笔记](http://morningstar369.com/posts/24/)
+- [[学习笔记] 优化算法学习笔记](http://morningstar369.com/posts/26/)
 - [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
+- [[学习笔记] 图机器学习笔记](http://morningstar369.com/posts/24/)
+- [[学习笔记] 图表示学习笔记](http://morningstar369.com/posts/22/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
