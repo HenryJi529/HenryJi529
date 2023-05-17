@@ -15,13 +15,11 @@
 
 ## Others 
 
-- [PearlyWave/blogs-hashnode](https://github.com/PearlyWave/blogs-hashnode) - A place to backup my blogs on hashnode
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 
 ## Python 
 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [FFrankyy/FINDER](https://github.com/FFrankyy/FINDER) - FINDER - FInding key players in complex Networks through DEep Reinforcement learning (Nature Machine Intelligence)
 
 
 ## License
