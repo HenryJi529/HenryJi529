@@ -122,7 +122,7 @@ YAML         14 mins         █░░░░░░░░░░░░░░░░
         <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
       </a>
       <br />
-      <a href="https://github.com/cumsoft">Cumsoft™</a>
+      <a href="https://github.com/cumsoft">Cumsoft</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
