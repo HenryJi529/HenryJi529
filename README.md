@@ -169,13 +169,6 @@ JSON         13 mins         █▒░░░░░░░░░░░░░░░
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/dahough">
-        <img src="https://avatars2.githubusercontent.com/u/134257600" width="100px;" alt="dahough"/>
-      </a>
-      <br />
-      <a href="https://github.com/dahough">大后</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/PearlyWave">
         <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
       </a>
