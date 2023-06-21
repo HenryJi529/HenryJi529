@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[生产力++] 效率工具使用技巧](http://morningstar369.com/posts/7/)
+- [[趣谈漫聊] 测试ChatGPT的&quot;政治立场&quot;](http://morningstar369.com/posts/13/)
+- [[学习笔记] 机器学习常见问题](http://morningstar369.com/posts/19/)
 - [[趣谈漫聊] TShock操作笔记](http://morningstar369.com/posts/29/)
-- [[趣谈漫聊] 泰拉瑞亚相关常识](http://morningstar369.com/posts/28/)
-- [[学习笔记] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
-- [[学习笔记] 优化算法学习笔记](http://morningstar369.com/posts/26/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
