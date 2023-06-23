@@ -6,20 +6,10 @@
 ## Contents
 
 - [Go](#go)
-- [Others](#others)
-- [Python](#python)
 
 ## Go 
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-
-## Others 
-
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-
-## Python 
-
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 
 ## License
