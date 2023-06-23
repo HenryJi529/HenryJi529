@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] Switch语句中的&quot;break&quot;](http://morningstar369.com/posts/30/)
 - [[生产力++] 效率工具使用技巧](http://morningstar369.com/posts/7/)
 - [[趣谈漫聊] 测试ChatGPT的&quot;政治立场&quot;](http://morningstar369.com/posts/13/)
 - [[学习笔记] 机器学习常见问题](http://morningstar369.com/posts/19/)
-- [[趣谈漫聊] TShock操作笔记](http://morningstar369.com/posts/29/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
