@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[零碎知识] Web服务器管理工具](http://morningstar369.com/posts/31/)
-- [[零碎知识] Switch语句中的&quot;break&quot;](http://morningstar369.com/posts/30/)
-- [[生产力++] 效率工具使用技巧](http://morningstar369.com/posts/7/)
-- [[趣谈漫聊] 测试ChatGPT的&quot;政治立场&quot;](http://morningstar369.com/posts/13/)
+- [[零碎知识] Web开发常见概念](http://morningstar369.com/posts/11/)
+- [[零碎知识] 科研常识笔记](http://morningstar369.com/posts/18/)
+- [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
+- [[零碎知识] Django REST Framework常见问题](http://morningstar369.com/posts/32/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
