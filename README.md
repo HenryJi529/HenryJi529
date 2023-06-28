@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] Sass学习笔记](http://morningstar369.com/posts/3/)
 - [[零碎知识] Web开发常见概念](http://morningstar369.com/posts/11/)
 - [[零碎知识] 科研常识笔记](http://morningstar369.com/posts/18/)
 - [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
-- [[零碎知识] Django REST Framework常见问题](http://morningstar369.com/posts/32/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
