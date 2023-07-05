@@ -74,8 +74,8 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] TypeScript学习笔记](http://morningstar369.com/posts/35/)
 - [[学习笔记] Vue全家桶学习笔记](http://morningstar369.com/posts/34/)
+- [[学习笔记] TypeScript学习笔记](http://morningstar369.com/posts/35/)
 - [[学习笔记] Sass学习笔记](http://morningstar369.com/posts/3/)
 - [[零碎知识] Web开发常见概念](http://morningstar369.com/posts/11/)
 <!-- BLOG-POST-LIST:END -->
