@@ -74,9 +74,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
 - [[学习笔记] 设计模式学习笔记](http://morningstar369.com/posts/37/)
-- [[学习笔记] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[学习笔记] TypeScript学习笔记](http://morningstar369.com/posts/35/)
 <!-- BLOG-POST-LIST:END -->
 
