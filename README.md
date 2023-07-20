@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[学习笔记] 操作系统学习笔记](http://morningstar369.com/posts/39/)
 - [[学习笔记] MySQL学习笔记](http://morningstar369.com/posts/38/)
 - [[学习笔记] 优化算法学习笔记](http://morningstar369.com/posts/26/)
 - [[学习笔记] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[学习笔记] Regex学习笔记](http://morningstar369.com/posts/12/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
