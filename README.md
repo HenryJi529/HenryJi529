@@ -182,13 +182,6 @@ Other        47 mins         ██▒░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/franicon">
-        <img src="https://avatars2.githubusercontent.com/u/62854860" width="100px;" alt="franicon"/>
-      </a>
-      <br />
-      <a href="https://github.com/franicon">Abayomi Aluko</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
