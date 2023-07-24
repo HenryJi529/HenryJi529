@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[趣谈漫聊] 泰拉瑞亚进阶玩法之秘密世界](http://morningstar369.com/posts/46/)
+- [[学习笔记] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 - [[学习笔记] 操作系统学习笔记](http://morningstar369.com/posts/39/)
-- [[学习笔记] MySQL学习笔记](http://morningstar369.com/posts/38/)
-- [[学习笔记] 优化算法学习笔记](http://morningstar369.com/posts/26/)
-- [[学习笔记] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[零碎知识] Bash实操技巧](http://morningstar369.com/posts/44/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
