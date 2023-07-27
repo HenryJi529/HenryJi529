@@ -74,10 +74,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[学习笔记] Vue全家桶学习笔记](http://morningstar369.com/posts/34/)
+- [[零碎知识] 科研常识笔记](http://morningstar369.com/posts/18/)
+- [[零碎知识] lodash.js学习笔记](http://morningstar369.com/posts/47/)
+- [[系统学习] Vue全家桶学习笔记](http://morningstar369.com/posts/34/)
 - [[趣谈漫聊] 泰拉瑞亚进阶玩法之秘密世界](http://morningstar369.com/posts/46/)
-- [[学习笔记] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
-- [[学习笔记] 操作系统学习笔记](http://morningstar369.com/posts/39/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
