@@ -74,8 +74,8 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[零碎知识] 科研常识笔记](http://morningstar369.com/posts/18/)
 - [[零碎知识] lodash.js学习笔记](http://morningstar369.com/posts/47/)
 <!-- BLOG-POST-LIST:END -->
