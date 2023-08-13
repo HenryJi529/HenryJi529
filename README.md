@@ -3,7 +3,7 @@
 	<h4>I'm Henry, a self-motivated tech enthusiast and full stack developer.</h4>
    	<a href="#">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryJi529"
-			alt="GitHub Streak" width="45%" />
+			alt="GitHub Streak" width="50%" />
 	</a>   
    	<a href="#">
 		<img src="https://github-readme-stats.vercel.app/api?username=HenryJi529&show_icons=true&theme=buefy"
