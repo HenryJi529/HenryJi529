@@ -70,10 +70,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[生产力++] tmux使用说明](http://morningstar369.com/posts/48/)
+- [[生产力++] Google搜索技巧](http://morningstar369.com/posts/7/)
 - [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[系统学习] 优化算法学习笔记](http://morningstar369.com/posts/26/)
-- [[系统学习] 强化学习笔记](http://morningstar369.com/posts/25/)
-- [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
