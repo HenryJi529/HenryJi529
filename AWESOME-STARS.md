@@ -6,7 +6,6 @@
 ## Contents
 
 - [JavaScript](#javascript)
-- [Python](#python)
 - [TypeScript](#typescript)
 
 ## JavaScript 
@@ -16,10 +15,6 @@
 - [RainEggplant/noname-pwa](https://github.com/RainEggplant/noname-pwa) - Progressive Web App of noname | 无名杀的 “渐进式网络应用程序” 版本 #三国杀
 - [RainEggplant/noname](https://github.com/RainEggplant/noname) - PWA 版无名杀的部署仓库（PWA 配置仓库请见 https://github.com/RainEggplant/noname-pwa ）
 - [kevinychen/sanguosha](https://github.com/kevinychen/sanguosha) - Online multiplayer version of the popular Chinese card game
-
-## Python 
-
-- [FFrankyy/FINDER](https://github.com/FFrankyy/FINDER) - FINDER - FInding key players in complex Networks through DEep Reinforcement learning (Nature Machine Intelligence)
 
 ## TypeScript 
 
