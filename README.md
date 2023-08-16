@@ -70,10 +70,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] 从 NaCl 到 Wasm](http://morningstar369.com/posts/49/)
 - [[零碎知识] 数据降维技术对比](http://morningstar369.com/posts/23/)
 - [[生产力++] tmux使用说明](http://morningstar369.com/posts/48/)
 - [[生产力++] Google搜索技巧](http://morningstar369.com/posts/7/)
-- [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
