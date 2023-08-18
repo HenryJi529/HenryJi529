@@ -70,10 +70,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[零碎知识] 复杂网络领域期刊](http://morningstar369.com/posts/51/)
 - [[系统学习] 网络安全与计算机安全学习笔记](http://morningstar369.com/posts/50/)
 - [[零碎知识] 从 NaCl 到 Wasm](http://morningstar369.com/posts/49/)
-- [[零碎知识] 数据降维技术对比](http://morningstar369.com/posts/23/)
-- [[生产力++] tmux使用说明](http://morningstar369.com/posts/48/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
