@@ -70,10 +70,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] 图神经网络的分批方案](http://morningstar369.com/posts/53/)
+- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/42/)
 - [[系统学习] 强化学习笔记](http://morningstar369.com/posts/25/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[零碎知识] 复杂网络领域期刊](http://morningstar369.com/posts/51/)
-- [[系统学习] 网络安全与计算机安全学习笔记](http://morningstar369.com/posts/50/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
