@@ -70,10 +70,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] 知识图谱简介](http://morningstar369.com/posts/55/)
+- [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
+- [[零碎知识] 暴力枚举与朴素算法](http://morningstar369.com/posts/54/)
 - [[零碎知识] 图神经网络的分批方案](http://morningstar369.com/posts/53/)
-- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/42/)
-- [[系统学习] 强化学习笔记](http://morningstar369.com/posts/25/)
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
