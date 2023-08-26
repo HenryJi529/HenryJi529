@@ -51,9 +51,6 @@
 **📫 How to reach me:**
 
 <p>
-  <a href="https://twitter.com/HenryJi529" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="推特" height="30" width="30" />
-  </a>
   <a href="https://www.linkedin.cn/injobs/in/ji-henry-3b7647175" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="领英" height="30" width="30" />
   </a>
