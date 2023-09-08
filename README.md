@@ -92,11 +92,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           24 hrs 12 mins  ███████████████████▓░░░░░   78.10 %
-TeX              2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Markdown         1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-ActionScript     1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Assembly         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python           15 hrs 8 mins   █████████████████▓░░░░░░░   70.74 %
+TeX              3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Markdown         1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+ActionScript     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+OpenEdge ABL     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
