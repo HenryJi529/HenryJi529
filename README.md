@@ -101,8 +101,6 @@ YAML             27 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![username's github activity graph](https://activity-graph.herokuapp.com/graph?username=HenryJi529&theme=dracula)
-
 ---
 
 **🏆 Github Profile Trophy**
