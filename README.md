@@ -67,10 +67,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] 南京银行行情行史](http://morningstar369.com/posts/58/)
 - [[零碎知识] Office正版激活方法&lpar;2023年可用&rpar;](http://morningstar369.com/posts/57/)
 - [[趣谈漫聊] 是大臣/首相文段摘录](http://morningstar369.com/posts/56/)
 - [[系统学习] 强化学习笔记](http://morningstar369.com/posts/25/)
-- [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
