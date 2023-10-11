@@ -67,10 +67,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/42/)
+- [[零碎知识] 相关系数的选取原则](http://morningstar369.com/posts/62/)
 - [[零碎知识] PyG数据集说明](http://morningstar369.com/posts/61/)
-- [[生产力++] Pandoc之markdown2epub指北](http://morningstar369.com/posts/60/)
-- [[零碎知识] 经典GNN存在的问题及解决方案](http://morningstar369.com/posts/59/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
