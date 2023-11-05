@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] UML学习笔记](http://morningstar369.com/posts/65/)
+- [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
+- [[系统学习] SQL学习笔记](http://morningstar369.com/posts/38/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
-- [[生产力++] Ghelper之上网模式](http://morningstar369.com/posts/64/)
-- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
