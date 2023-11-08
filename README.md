@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] Python类型检查: 从动态到静态](http://morningstar369.com/posts/67/)
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
 - [[系统学习] PlantUML学习笔记](http://morningstar369.com/posts/66/)
-- [[系统学习] SQL学习笔记](http://morningstar369.com/posts/38/)
-- [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
