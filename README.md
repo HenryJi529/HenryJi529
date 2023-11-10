@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] 常见网络安全攻击及防御措施](http://morningstar369.com/posts/68/)
+- [[零碎知识] Django项目之提升SEO](http://morningstar369.com/posts/1/)
+- [[零碎知识] 网络安全与计算机安全初识](http://morningstar369.com/posts/50/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[零碎知识] Python类型检查: 从动态到静态](http://morningstar369.com/posts/67/)
-- [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
-- [[系统学习] PlantUML学习笔记](http://morningstar369.com/posts/66/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
