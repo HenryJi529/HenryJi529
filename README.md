@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] Python环境清理&lpar;MacOS&rpar;](http://morningstar369.com/posts/69/)
 - [[零碎知识] 常见网络安全攻击及防御措施](http://morningstar369.com/posts/68/)
 - [[零碎知识] Django项目之提升SEO](http://morningstar369.com/posts/1/)
 - [[零碎知识] 网络安全与计算机安全初识](http://morningstar369.com/posts/50/)
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
