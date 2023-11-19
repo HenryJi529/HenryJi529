@@ -96,6 +96,10 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=KeyNodeFinder"
 			alt="KeyNodeFinder Card" width="45%" />
 	</a>
+	<a href="https://github.com/HenryJi529/AlgorithmJourney">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=AlgorithmJourney"
+			alt="AlgorithmJourney Card" width="45%" />
+	</a>
 </div>
 
 ---
