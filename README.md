@@ -193,6 +193,13 @@ Other          30 mins         ▒░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Miercy">
+        <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Miercy">Miercy</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
