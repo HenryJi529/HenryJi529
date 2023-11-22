@@ -108,7 +108,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java           29 hrs 29 mins  ████████████████▓░░░░░░░░   66.73 %
+TeX            7 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+HTML           2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Python         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+BibTeX         49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
