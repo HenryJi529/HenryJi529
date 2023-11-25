@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[趣谈漫聊] 王国之泪VS旷野之息](http://morningstar369.com/posts/70/)
 - [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
 - [[零碎知识] 常见网络安全攻击及防御措施](http://morningstar369.com/posts/68/)
 - [[零碎知识] Python环境清理&lpar;MacOS&rpar;](http://morningstar369.com/posts/69/)
-- [[零碎知识] Django项目之提升SEO](http://morningstar369.com/posts/1/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
