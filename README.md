@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
+- [[趣谈漫聊] 塞尔达旷野之息武器介绍](http://morningstar369.com/posts/72/)
 - [[零碎知识] 机器学习常见问题](http://morningstar369.com/posts/19/)
 - [[零碎知识] 谱域图神经网络资料整理](http://morningstar369.com/posts/71/)
-- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
-- [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
