@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
 - [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
 - [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[系统学习] 图机器学习笔记](http://morningstar369.com/posts/24/)
-- [[零碎知识] H指数](http://morningstar369.com/posts/73/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
