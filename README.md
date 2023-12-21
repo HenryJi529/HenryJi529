@@ -129,13 +129,6 @@ Markdown       8 mins          ░░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/cumsoft">
-        <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/cumsoft">Cumsoft</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
@@ -177,8 +170,6 @@ Markdown       8 mins          ░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Ericsoo56">苏冀</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -186,6 +177,8 @@ Markdown       8 mins          ░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PearlyWave">
         <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
