@@ -75,9 +75,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
-- [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
 - [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
+- [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
+- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
 - [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 <!-- BLOG-POST-LIST:END -->
 
