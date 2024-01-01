@@ -77,8 +77,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[零碎知识] LeetCode刷题技巧](http://morningstar369.com/posts/43/)
-- [[系统学习] SQL学习笔记](http://morningstar369.com/posts/38/)
-- [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[零碎知识] 问题复杂性简介](http://morningstar369.com/posts/74/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
