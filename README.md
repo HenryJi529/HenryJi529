@@ -76,9 +76,9 @@
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
+- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 - [[系统学习] 操作系统学习笔记](http://morningstar369.com/posts/39/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
-- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
