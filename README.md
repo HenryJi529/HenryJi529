@@ -194,18 +194,18 @@ Markdown   15 mins         ▓░░░░░░░░░░░░░░░░�
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LLLLM-A">
-        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM-A"/>
-      </a>
-      <br />
-      <a href="https://github.com/LLLLM-A">LLLLM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Miercy">
         <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
       </a>
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LLLLM-A">
+        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM-A"/>
+      </a>
+      <br />
+      <a href="https://github.com/LLLLM-A">LLLLM</a>
     </td>
   </tr>
 </table>
