@@ -75,9 +75,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] SQL学习笔记](http://morningstar369.com/posts/38/)
 - [[零碎知识] 中国建设银行行情行史](http://morningstar369.com/posts/76/)
 - [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
-- [[系统学习] SQL学习笔记](http://morningstar369.com/posts/38/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
 <!-- BLOG-POST-LIST:END -->
 
