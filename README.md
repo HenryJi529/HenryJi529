@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 - [[系统学习] 图机器学习笔记](http://morningstar369.com/posts/24/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
-- [[系统学习] 数据库学习笔记](http://morningstar369.com/posts/38/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
