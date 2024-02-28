@@ -76,9 +76,9 @@
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
+- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 图表示学习笔记](http://morningstar369.com/posts/22/)
-- [[系统学习] 复杂网络学习笔记](http://morningstar369.com/posts/15/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
