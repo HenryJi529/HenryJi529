@@ -14,11 +14,9 @@
 - [adeFuLoDgu/noname](https://github.com/adeFuLoDgu/noname) - html5 SanGuoSha
 - [RainEggplant/noname-pwa](https://github.com/RainEggplant/noname-pwa) - Progressive Web App of noname | 无名杀的 “渐进式网络应用程序” 版本 #三国杀
 - [RainEggplant/noname](https://github.com/RainEggplant/noname) - PWA 版无名杀的部署仓库（PWA 配置仓库请见 https://github.com/RainEggplant/noname-pwa ）
-- [kevinychen/sanguosha](https://github.com/kevinychen/sanguosha) - Online multiplayer version of the popular Chinese card game
 
 ## TypeScript 
 
-- [Mogara/opensgs-ui](https://github.com/Mogara/opensgs-ui) - UI of OpenSGS
 - [donle/sgs](https://github.com/donle/sgs) - 
 
 
