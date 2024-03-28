@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
+- [[系统学习] Git学习笔记](http://morningstar369.com/posts/6/)
+- [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[系统学习] 数据库学习笔记](http://morningstar369.com/posts/38/)
-- [[生产力++] Word常见技巧整理](http://morningstar369.com/posts/78/)
+- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
