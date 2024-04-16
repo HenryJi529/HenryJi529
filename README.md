@@ -75,7 +75,7 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[零碎知识] JavaScript之恶](http://morningstar369.com/posts/79/)
+- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 - [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
