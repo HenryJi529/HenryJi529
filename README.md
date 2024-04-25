@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
+- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
 - [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 - [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
-- [[系统学习] RESTful API学习笔记](http://morningstar369.com/posts/33/)
-- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
