@@ -76,9 +76,9 @@
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 - [[系统学习] Docker学习笔记](http://morningstar369.com/posts/4/)
 - [[零碎知识] JavaScript之恶](http://morningstar369.com/posts/79/)
-- [[零碎知识] lodash.js学习笔记](http://morningstar369.com/posts/47/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
