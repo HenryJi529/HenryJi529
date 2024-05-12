@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
+- [[系统学习] JavaEE学习笔记](http://morningstar369.com/posts/80/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 图表示学习笔记](http://morningstar369.com/posts/22/)
-- [[系统学习] PlantUML学习笔记](http://morningstar369.com/posts/66/)
-- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
