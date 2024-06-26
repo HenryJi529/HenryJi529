@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[系统学习] Redis学习笔记](http://morningstar369.com/posts/81/)
 - [[系统学习] JavaEE学习笔记](http://morningstar369.com/posts/80/)
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] Docker学习笔记](http://morningstar369.com/posts/4/)
-- [[系统学习] RESTful API学习笔记](http://morningstar369.com/posts/33/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
