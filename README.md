@@ -136,6 +136,13 @@ SQL                        26 mins         ▓░░░░░░░░░░░�
       <a href="https://github.com/cumsoft">Cumsoft</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sammorozov">
+        <img src="https://avatars2.githubusercontent.com/u/109150200" width="100px;" alt="sammorozov"/>
+      </a>
+      <br />
+      <a href="https://github.com/sammorozov">Sam Morozov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
@@ -170,6 +177,8 @@ SQL                        26 mins         ▓░░░░░░░░░░░�
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Ericsoo56">
         <img src="https://avatars2.githubusercontent.com/u/117961705" width="100px;" alt="Ericsoo56"/>
@@ -177,8 +186,6 @@ SQL                        26 mins         ▓░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Ericsoo56">苏冀</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
