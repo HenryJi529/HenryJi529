@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[系统学习] JavaEE学习笔记](http://morningstar369.com/posts/80/)
-- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
+- [[系统学习] 操作系统学习笔记](http://morningstar369.com/posts/39/)
+- [[draft] 华夏银行行情行史](http://morningstar369.com/posts/83/)
+- [[draft] 金融相关知识](http://morningstar369.com/posts/82/)
+- [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
