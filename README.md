@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
-- [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
-- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
+- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
+- [[系统学习] 《Java解惑》阅读笔记](http://morningstar369.com/posts/75/)
+- [[系统学习] 计算机网络学习笔记](http://morningstar369.com/posts/41/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
