@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[零碎知识] Linux笔试零碎知识整理](http://morningstar369.com/posts/84/)
-- [[系统学习] Docker学习笔记](http://morningstar369.com/posts/4/)
+- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
+- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[系统学习] JavaEE学习笔记](http://morningstar369.com/posts/80/)
+- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
