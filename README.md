@@ -76,9 +76,9 @@
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
+- [[系统学习] PlantUML学习笔记](http://morningstar369.com/posts/66/)
+- [[趣谈漫聊] 旷野之息VS王国之泪](http://morningstar369.com/posts/70/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
-- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
-- [[系统学习] 计算机组成原理学习笔记](http://morningstar369.com/posts/45/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
