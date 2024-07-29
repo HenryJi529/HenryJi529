@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
-- [[系统学习] PlantUML学习笔记](http://morningstar369.com/posts/66/)
+- [[系统学习] Vue全家桶学习笔记](http://morningstar369.com/posts/34/)
+- [[系统学习] RESTful API学习笔记](http://morningstar369.com/posts/33/)
+- [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
 - [[趣谈漫聊] 旷野之息VS王国之泪](http://morningstar369.com/posts/70/)
-- [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
