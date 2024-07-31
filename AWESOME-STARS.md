@@ -61,7 +61,6 @@
 
 ## CSS 
 
-- [Syozhi-1/Three-Kingdom-Card-Maker](https://github.com/Syozhi-1/Three-Kingdom-Card-Maker) - 三国杀卡牌制作器纯HTML版，来源贴吧，做了些小修改
 - [morningbzy/SGS](https://github.com/morningbzy/SGS) - 双武将三国杀HTML网页版
 - [1464691115/sanguosha](https://github.com/1464691115/sanguosha) - 三国杀
 - [dalianmao22233/HeroCardGenerator](https://github.com/dalianmao22233/HeroCardGenerator) - 类三国杀风格卡牌生成器
@@ -88,7 +87,6 @@
 
 ## HTML 
 
-- [yue31313/LianLianKanSanGuo](https://github.com/yue31313/LianLianKanSanGuo) - 三国杀版连连看（使用html5的canvas特性，纯javascript开发） 韩梦飞沙
 - [zhangshenxing/LTKGeneralList](https://github.com/zhangshenxing/LTKGeneralList) - 三国杀武将列表
 - [houwei1014/sanguosha](https://github.com/houwei1014/sanguosha) - 三国杀官网
 - [Vivomo/sgs](https://github.com/Vivomo/sgs) - 网页版三国杀
