@@ -75,7 +75,7 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] JavaEE学习笔记](http://morningstar369.com/posts/80/)
+- [[系统学习] JavaWeb学习笔记](http://morningstar369.com/posts/80/)
 - [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
 - [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 - [[系统学习] 数据结构与算法学习笔记](http://morningstar369.com/posts/63/)
