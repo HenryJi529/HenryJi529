@@ -76,9 +76,9 @@
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [[系统学习] Vue全家桶学习笔记](http://morningstar369.com/posts/34/)
+- [[系统学习] Nginx 学习笔记](http://morningstar369.com/posts/2/)
 - [[零碎知识] 软件开发相关常识](http://morningstar369.com/posts/85/)
 - [[系统学习] JavaWeb学习笔记](http://morningstar369.com/posts/80/)
-- [[系统学习] 设计模式学习笔记](http://morningstar369.com/posts/37/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
