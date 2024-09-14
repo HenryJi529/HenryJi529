@@ -5,9 +5,11 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Java](#java)
@@ -21,6 +23,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C 
+
+- [totm21/Killers_of_the_Three_Kingdoms](https://github.com/totm21/Killers_of_the_Three_Kingdoms) - 三国杀
 
 ## C# # 
 
@@ -69,17 +75,23 @@
 - [JavaProgrammerLB/SanGuoShaGaoShou](https://github.com/JavaProgrammerLB/SanGuoShaGaoShou) - 三国杀高手
 - [1464691115/sanguosha](https://github.com/1464691115/sanguosha) - 三国杀
 
+## Go 
+
+- [sk2233/sgs](https://github.com/sk2233/sgs) - 三国杀学习
+
 ## Groovy 
 
 - [kengdieTeam2/herochooser_2](https://github.com/kengdieTeam2/herochooser_2) - 坑爹三国杀
 
 ## HTML 
 
+- [zhangshenxing/LTKGeneralList](https://github.com/zhangshenxing/LTKGeneralList) - 三国杀武将列表
 - [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
 - [wteam-xq2/threeKingdoms](https://github.com/wteam-xq2/threeKingdoms) - 三国杀FAQ的发布版
 
 ## Java 
 
+- [Mrducan1245/AutoClickPro](https://github.com/Mrducan1245/AutoClickPro) - 安卓自动点击软件，可以每天定时点击，用来抢票，三国杀什么的
 - [mzEntity/sanguosha](https://github.com/mzEntity/sanguosha) - 
 - [CstJava/sanguoshaTest](https://github.com/CstJava/sanguoshaTest) - 
 - [hanzhicuilin/Sanguosha](https://github.com/hanzhicuilin/Sanguosha) - Sanguosha
@@ -102,6 +114,8 @@
 
 ## JavaScript 
 
+- [llsccm/timing-reply](https://github.com/llsccm/timing-reply) - 三国杀社区自动抢楼，支持 GitHub Actions
+- [fuck2ky/sgs_script](https://github.com/fuck2ky/sgs_script) - 新三国杀脚本
 - [dreakzss/SANGUOSHA](https://github.com/dreakzss/SANGUOSHA) - Font end of a card game named Sanguosha. This project includes the interface and APIs which could call the animations
 - [namhd94/sanguosha](https://github.com/namhd94/sanguosha) - sanguosha is just my pet project. It provides all characters, cards and guides of Sanguosha board game. This project just support VN language.
 - [gc1993/sanguosha](https://github.com/gc1993/sanguosha) - 
@@ -133,6 +147,7 @@
 
 ## Lua 
 
+- [Mogara/LuaSkillsForQSGS](https://github.com/Mogara/LuaSkillsForQSGS) - 新版太阳神三国杀武将技能代码速查手册（Lua版）
 - [DZDcyj/QSGS-v2-Lua](https://github.com/DZDcyj/QSGS-v2-Lua) - 基于太阳神三国杀 QSanguosha-v2-20190208 编写的武将，使用 Lua 作为开发语言
 - [yiweizhi-github/three_kingdoms_kill](https://github.com/yiweizhi-github/three_kingdoms_kill) - 
 - [javierrppp/sanguosha](https://github.com/javierrppp/sanguosha) - 三国杀DIY
@@ -153,6 +168,9 @@
 
 ## Others 
 
+- [yuzhicong/LTKHeroMaker](https://github.com/yuzhicong/LTKHeroMaker) - 一款制作三国杀武将卡牌的应用。(A application to create LTKHeroCard.)  目前支持三国杀 身份局武将卡(含2019新UI)和双将模式国战版本武将卡的制作，支持自定义势力、自定义卡牌颜色、自定义卡包和自定义武将评语等功能。
+- [tdykx/Triple-state-kill](https://github.com/tdykx/Triple-state-kill) - 三国杀
+- [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
 - [buaagg/sanguosha](https://github.com/buaagg/sanguosha) - 
 - [jaywanglevelup/sanguosha](https://github.com/jaywanglevelup/sanguosha) - sanguosha
 - [sleepycat233/SanGuoSha-Bible-Edition](https://github.com/sleepycat233/SanGuoSha-Bible-Edition) - 圣经版三国杀 - A Bible-themed playing cards based on Sanguosha&Bang!
@@ -175,6 +193,9 @@
 
 ## Python 
 
+- [SpiritedAwayCN/SGS-WeChatAutoClock](https://github.com/SpiritedAwayCN/SGS-WeChatAutoClock) - 微信三国杀公众号一键打卡工具
+- [2144533854/SGS_Script_Based_Opencv](https://github.com/2144533854/SGS_Script_Based_Opencv) - 基于OpenCV的三国杀手游脚本
+- [jiangcy1994/SgsDaily](https://github.com/jiangcy1994/SgsDaily) - 三国杀脚本做每日
 - [KevinStarry/sanguosha_py](https://github.com/KevinStarry/sanguosha_py) - 三国杀python脚本-基于鼠标点击
 - [BearGroysenHe/SanGuoSha](https://github.com/BearGroysenHe/SanGuoSha) - 
 - [Feiju12138/SGS](https://github.com/Feiju12138/SGS) - 为了能更熟练的的使用Python，用Python写了一个三国杀游戏
@@ -189,6 +210,8 @@
 
 ## TypeScript 
 
+- [shawroger/zcp-calculator](https://github.com/shawroger/zcp-calculator) - 三国杀张昌蒲计算器(WEB)
+- [CatScarf/Lyciumaker](https://github.com/CatScarf/Lyciumaker) - 在线三国杀卡牌制作器
 - [fenghengzhi/sanguosha](https://github.com/fenghengzhi/sanguosha) - 
 - [takashiro/sanguosha-ai](https://github.com/takashiro/sanguosha-ai) - Sanguosha AI
 - [takashiro/sanguosha-react](https://github.com/takashiro/sanguosha-react) - GUI of Sanguosha (React)
