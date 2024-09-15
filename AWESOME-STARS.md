@@ -170,7 +170,6 @@
 
 - [yuzhicong/LTKHeroMaker](https://github.com/yuzhicong/LTKHeroMaker) - 一款制作三国杀武将卡牌的应用。(A application to create LTKHeroCard.)  目前支持三国杀 身份局武将卡(含2019新UI)和双将模式国战版本武将卡的制作，支持自定义势力、自定义卡牌颜色、自定义卡包和自定义武将评语等功能。
 - [tdykx/Triple-state-kill](https://github.com/tdykx/Triple-state-kill) - 三国杀
-- [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
 - [buaagg/sanguosha](https://github.com/buaagg/sanguosha) - 
 - [jaywanglevelup/sanguosha](https://github.com/jaywanglevelup/sanguosha) - sanguosha
 - [sleepycat233/SanGuoSha-Bible-Edition](https://github.com/sleepycat233/SanGuoSha-Bible-Edition) - 圣经版三国杀 - A Bible-themed playing cards based on Sanguosha&Bang!
@@ -193,6 +192,7 @@
 
 ## Python 
 
+- [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
 - [SpiritedAwayCN/SGS-WeChatAutoClock](https://github.com/SpiritedAwayCN/SGS-WeChatAutoClock) - 微信三国杀公众号一键打卡工具
 - [2144533854/SGS_Script_Based_Opencv](https://github.com/2144533854/SGS_Script_Based_Opencv) - 基于OpenCV的三国杀手游脚本
 - [jiangcy1994/SgsDaily](https://github.com/jiangcy1994/SgsDaily) - 三国杀脚本做每日
