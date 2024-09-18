@@ -143,18 +143,18 @@ Git Config    10 mins         █▒░░░░░░░░░░░░░░�
       <a href="https://github.com/eust-w">longtao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucasrmagalhaes">
-        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasrmagalhaes">
+        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
       <a href="https://github.com/lilaroky">
