@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -24,12 +25,20 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## AutoHotkey 
+
+- [dirkarnez/The-Legend-of-Three-Kingdoms-II-cheat](https://github.com/dirkarnez/The-Legend-of-Three-Kingdoms-II-cheat) - 
+
 ## C 
 
+- [Alexanderia-Mike/Legends-of-Three-Kingdoms](https://github.com/Alexanderia-Mike/Legends-of-Three-Kingdoms) - 
 - [totm21/Killers_of_the_Three_Kingdoms](https://github.com/totm21/Killers_of_the_Three_Kingdoms) - 三国杀
 
 ## C# # 
 
+- [chuckbear/CamelChampionship](https://github.com/chuckbear/CamelChampionship) - This is an open source entertainment project for "Legends of the Three Kingdoms" wechat group.
+- [Nomeleel/legends-of-the-three-kingdoms](https://github.com/Nomeleel/legends-of-the-three-kingdoms) - Legends of the three kingdoms.
+- [MichaelWei1990/LegendsOfTheThreeKingdoms](https://github.com/MichaelWei1990/LegendsOfTheThreeKingdoms) - 
 - [noobiesgs/Sanguosha](https://github.com/noobiesgs/Sanguosha) - 
 - [WillJun/sgs](https://github.com/WillJun/sgs) - This is a server-client sanguosha （三国杀） game
 - [mengtest/Three-Kingdoms](https://github.com/mengtest/Three-Kingdoms) - 经典卡牌游戏:三国无双
@@ -43,6 +52,9 @@
 
 ## C++ 
 
+- [JiangDazhao/Cplusplus-Project-card-game](https://github.com/JiangDazhao/Cplusplus-Project-card-game) - Developed in C++ a card game, named “Legends of the Three Kingdoms”
+- [0x00b/sgs](https://github.com/0x00b/sgs) - Legends of the Three Kingdoms
+- [HiCode2009/Legends-of-the-Three-Kingdoms](https://github.com/HiCode2009/Legends-of-the-Three-Kingdoms) - 三国杀是一款原创桌游，集历史、美术、卡牌等元素于一身的原创三国策略卡牌游戏。
 - [Easonqsp/sanguosha](https://github.com/Easonqsp/sanguosha) - 
 - [yf0994/SanguoshaV2](https://github.com/yf0994/SanguoshaV2) - 
 - [lwtmusou/touhoukill](https://github.com/lwtmusou/touhoukill) - Sanguosha (board game) mod including touhou project characters based on open source Qsanguosha
@@ -71,12 +83,14 @@
 
 ## CSS 
 
+- [Alex-McAvoy/Legends-of-the-Three-Kingdoms-Offline-Assistant](https://github.com/Alex-McAvoy/Legends-of-the-Three-Kingdoms-Offline-Assistant) - （三国杀面杀助手，划掉）杀批宝典
 - [morningbzy/SGS](https://github.com/morningbzy/SGS) - 双武将三国杀HTML网页版
 - [JavaProgrammerLB/SanGuoShaGaoShou](https://github.com/JavaProgrammerLB/SanGuoShaGaoShou) - 三国杀高手
 - [1464691115/sanguosha](https://github.com/1464691115/sanguosha) - 三国杀
 
 ## Go 
 
+- [shelton-hu/legends-of-three-kingdoms](https://github.com/shelton-hu/legends-of-three-kingdoms) - 
 - [sk2233/sgs](https://github.com/sk2233/sgs) - 三国杀学习
 
 ## Groovy 
@@ -91,6 +105,9 @@
 
 ## Java 
 
+- [yvoliuone/ThreeKingdoms](https://github.com/yvoliuone/ThreeKingdoms) - A Java implementation of the Chinese board game "Legend of the Three Kingdoms"
+- [freesgs/sgs](https://github.com/freesgs/sgs) - freesgs(Legends of the Three Kingdoms)
+- [huangken8511429/Legends-of-The-Three-Kingdoms](https://github.com/huangken8511429/Legends-of-The-Three-Kingdoms) - 
 - [Mrducan1245/AutoClickPro](https://github.com/Mrducan1245/AutoClickPro) - 安卓自动点击软件，可以每天定时点击，用来抢票，三国杀什么的
 - [mzEntity/sanguosha](https://github.com/mzEntity/sanguosha) - 
 - [CstJava/sanguoshaTest](https://github.com/CstJava/sanguoshaTest) - 
@@ -114,6 +131,7 @@
 
 ## JavaScript 
 
+- [junqdu/LTKDEX](https://github.com/junqdu/LTKDEX) - English DataBase for Legends of the Three Kingdoms
 - [llsccm/timing-reply](https://github.com/llsccm/timing-reply) - 三国杀社区自动抢楼，支持 GitHub Actions
 - [fuck2ky/sgs_script](https://github.com/fuck2ky/sgs_script) - 新三国杀脚本
 - [dreakzss/SANGUOSHA](https://github.com/dreakzss/SANGUOSHA) - Font end of a card game named Sanguosha. This project includes the interface and APIs which could call the animations
@@ -143,6 +161,8 @@
 
 ## Kotlin 
 
+- [JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-](https://github.com/JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-) - Create the game with different characters, cards and functions using Kotlin.
+- [czp3009/LegendsOfTheThreeKingdoms](https://github.com/czp3009/LegendsOfTheThreeKingdoms) - 三国杀!
 - [lvmaozilinke/sgsmszs](https://github.com/lvmaozilinke/sgsmszs) - 三国杀面杀助手
 
 ## Lua 
@@ -168,6 +188,13 @@
 
 ## Others 
 
+- [Mogara/QSanguoshaLines](https://github.com/Mogara/QSanguoshaLines) - Chinese Lines for popular board game Legend of Three Kingdoms. They would be used in QSanguosha, a portable game about LTK.These audio files are all open and free. You can use them without permisson.
+- [yipcma/sango](https://github.com/yipcma/sango) - The PAO numeric mnemonic system based on the Legends of the Three Kingdoms
+- [Sandbird/Legend-of-the-Three-Kingdoms](https://github.com/Sandbird/Legend-of-the-Three-Kingdoms) - 
+- [ccjyl/Legends-of-the-Three-Kingdoms](https://github.com/ccjyl/Legends-of-the-Three-Kingdoms) - 
+- [scolley31/Legends-of-The-Three-Kingdoms](https://github.com/scolley31/Legends-of-The-Three-Kingdoms) - 
+- [NJU-MLXD/Legends-of-the-Three-Kingdoms](https://github.com/NJU-MLXD/Legends-of-the-Three-Kingdoms) - 
+- [Nomeleel/line.legends-of-the-three-kingdoms](https://github.com/Nomeleel/line.legends-of-the-three-kingdoms) - 三国杀 武将 台词
 - [yuzhicong/LTKHeroMaker](https://github.com/yuzhicong/LTKHeroMaker) - 一款制作三国杀武将卡牌的应用。(A application to create LTKHeroCard.)  目前支持三国杀 身份局武将卡(含2019新UI)和双将模式国战版本武将卡的制作，支持自定义势力、自定义卡牌颜色、自定义卡包和自定义武将评语等功能。
 - [tdykx/Triple-state-kill](https://github.com/tdykx/Triple-state-kill) - 三国杀
 - [buaagg/sanguosha](https://github.com/buaagg/sanguosha) - 
@@ -192,6 +219,8 @@
 
 ## Python 
 
+- [TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-](https://github.com/TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
+- [Eyewin101/Three-Kingdoms-Card-Game-CG-](https://github.com/Eyewin101/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
 - [SpiritedAwayCN/SGS-WeChatAutoClock](https://github.com/SpiritedAwayCN/SGS-WeChatAutoClock) - 微信三国杀公众号一键打卡工具
 - [2144533854/SGS_Script_Based_Opencv](https://github.com/2144533854/SGS_Script_Based_Opencv) - 基于OpenCV的三国杀手游脚本
