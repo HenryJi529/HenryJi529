@@ -227,7 +227,7 @@
 - [jiangcy1994/SgsDaily](https://github.com/jiangcy1994/SgsDaily) - 三国杀脚本做每日
 - [KevinStarry/sanguosha_py](https://github.com/KevinStarry/sanguosha_py) - 三国杀python脚本-基于鼠标点击
 - [BearGroysenHe/SanGuoSha](https://github.com/BearGroysenHe/SanGuoSha) - 
-- [Feiju12138/SGS](https://github.com/Feiju12138/SGS) - 为了能更熟练的的使用Python，用Python写了一个三国杀游戏
+- [feiju12138/SGS](https://github.com/feiju12138/SGS) - 为了能更熟练的的使用Python，用Python写了一个三国杀游戏
 - [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
 - [zyxyuanxiao/SGS-tornado](https://github.com/zyxyuanxiao/SGS-tornado) - tornado框架的服务器端三国杀
 - [hezhenghao/Free3GS](https://github.com/hezhenghao/Free3GS) - Free Text-based SanGuoSha 纯文字版三国杀
