@@ -108,7 +108,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   1 hr 56 mins    █████████████████████████   100.00 %
+Bash   2 hrs 7 mins    ███████████████████████▓░   94.95 %
+JSON   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
