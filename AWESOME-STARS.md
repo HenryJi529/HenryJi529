@@ -43,7 +43,7 @@
 - [WillJun/sgs](https://github.com/WillJun/sgs) - This is a server-client sanguosha （三国杀） game
 - [mengtest/Three-Kingdoms](https://github.com/mengtest/Three-Kingdoms) - 经典卡牌游戏:三国无双
 - [fredzqm/Legend_of_three_kingdom](https://github.com/fredzqm/Legend_of_three_kingdom) - 三国杀 (Legend of three kingdom) A card game from China.
-- [xdusongwei/SanGuoSha](https://github.com/xdusongwei/SanGuoSha) - 一个三国杀的C#版本，注意这是一个服务逻辑，支持原版角色。
+- [xdusongwei/SanGuoSha](https://github.com/xdusongwei/SanGuoSha) - 三国杀的C#版本的核心，这是一个服务逻辑实现，支持原版角色。
 - [MatoiNRyuuko/KillDemo](https://github.com/MatoiNRyuuko/KillDemo) - Unity三国杀双人联机demo
 - [snkkka163/sanguosha](https://github.com/snkkka163/sanguosha) - 此项目为三国杀游戏，模拟QQ注册，QQ登录，QQ加好友，QQ聊天，基于C#语言，SQL Server数据库开发， 游戏功能目前已经实现玩家VS人机，已支持英雄:刘备，曹操，孙权，支持穿着装备，武器，战马，杀死对方获得积分，开发工具：Visual Studio 2019，游戏基于手游游卡网络三国杀应用宝版本 2019年春季版本模拟，本项目持续更新!
 - [LastSwing/Sanguosha-Unity](https://github.com/LastSwing/Sanguosha-Unity) - 
