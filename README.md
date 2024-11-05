@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] 图表示学习笔记](http://morningstar369.com/posts/22/)
+- [[系统学习] 图机器学习笔记](http://morningstar369.com/posts/24/)
 - [[系统学习] JavaWeb学习笔记](http://morningstar369.com/posts/80/)
-- [[系统学习] MySQL学习笔记](http://morningstar369.com/posts/38/)
-- [[零碎知识] Web开发重要概念](http://morningstar369.com/posts/11/)
-- [[系统学习] Redis学习笔记](http://morningstar369.com/posts/81/)
+- [[系统学习] Java学习笔记](http://morningstar369.com/posts/36/)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
