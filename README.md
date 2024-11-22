@@ -187,6 +187,13 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dirkarnez">
+        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
+      </a>
+      <br />
+      <a href="https://github.com/dirkarnez">Dirk Arnez</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
       </a>
