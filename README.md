@@ -136,13 +136,6 @@ Markdown     29 mins         █▓░░░░░░░░░░░░░░░
       <a href="https://github.com/cumsoft">cumsoft</a>
     </td>
     <td align="center">
-      <a href="https://github.com/eust-w">
-        <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
-      </a>
-      <br />
-      <a href="https://github.com/eust-w">longtao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
@@ -177,8 +170,6 @@ Markdown     29 mins         █▓░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
@@ -186,6 +177,8 @@ Markdown     29 mins         █▓░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
