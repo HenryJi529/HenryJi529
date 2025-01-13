@@ -202,7 +202,7 @@
 - [sleepycat233/SanGuoSha-Bible-Edition](https://github.com/sleepycat233/SanGuoSha-Bible-Edition) - 圣经版三国杀 - A Bible-themed playing cards based on Sanguosha&Bang!
 - [suanguosha/SCAM](https://github.com/suanguosha/SCAM) - 三国杀群内助手（Sanguosha's Cash grAb Machine）
 - [fatestudio/Sanguosha](https://github.com/fatestudio/Sanguosha) - Sanguosha
-- [xxu-mzwyt/Sanguosha-English-Translation](https://github.com/xxu-mzwyt/Sanguosha-English-Translation) - Translation of Cards from Sanguosha (or LTK, Legends of Three Kingdoms).
+- [xingjian-xu/Sanguosha-English-Translation](https://github.com/xingjian-xu/Sanguosha-English-Translation) - Translation of Cards from Sanguosha (or LTK, Legends of Three Kingdoms).
 - [linlingyu/three-kingdoms](https://github.com/linlingyu/three-kingdoms) - 三国杀
 - [kerasking/websgs](https://github.com/kerasking/websgs) - 开源三国杀网页版
 - [ME70N/sgsRules](https://github.com/ME70N/sgsRules) - sgsRule repo
