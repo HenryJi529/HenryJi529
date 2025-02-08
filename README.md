@@ -75,10 +75,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[零碎知识] 金融相关知识](http://morningstar369.com/posts/82/)
-- [[系统学习] JavaWeb学习笔记](http://morningstar369.com/posts/80/)
-- [[系统学习] 图表示学习笔记](http://morningstar369.com/posts/22/)
-- [[系统学习] 强化学习笔记](http://morningstar369.com/posts/25/)
+- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
+- [[零碎知识] Pandoc之Markdown2Epub](https://morningstar369.com/blog/1882709403352743937)
+- [[零碎知识] 常见网络安全攻击及防御措施](https://morningstar369.com/blog/1882709261337804801)
+- [[零碎知识] 股票相关知识](https://morningstar369.com/blog/1882709160301215746)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
