@@ -11,7 +11,7 @@
 	</a>
 </div>
 
-- 🔭 I’m currently working on: [OpenMorningstar](https://github.com/HenryJi529/OpenMorningstar)
+- 🔭 I’m currently working on: [NextMorningstar](https://github.com/HenryJi529/NextMorningstar)
 - 🔍 I'm currently looking for remote work.
 - 🌱 I’m currently learning Web Development & Machine Learning & Data Analysing...
 - 🤔 I’m looking for help with ML developer ...
@@ -82,9 +82,9 @@
 **🗂️ My Projects**
 
 <div align="center">
-	<a href="https://github.com/HenryJi529/OpenMorningstar">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=OpenMorningstar"
-			alt="OpenMorningstar Card" width="45%" />
+	<a href="https://github.com/HenryJi529/NextMorningstar">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=NextMorningstar"
+			alt="NextMorningstar Card" width="45%" />
 	</a>
 	<a href="https://github.com/HenryJi529/MorningstarPaper">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=MorningstarPaper"
