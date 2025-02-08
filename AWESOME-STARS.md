@@ -63,7 +63,7 @@
 - [sinqz/QSanguosha-v2-Notify](https://github.com/sinqz/QSanguosha-v2-Notify) - 基于太阳神三国杀v2的个人性质版本
 - [huzhongyidihao/sanguosha](https://github.com/huzhongyidihao/sanguosha) - 第一个做的棋牌demo，仿照三国杀，大体实现了整个流程，当然是单机。移植Android 需要修改代码
 - [kdashsoul/QSanguoshaPassMode](https://github.com/kdashsoul/QSanguoshaPassMode) - 三国杀闯关模式
-- [chenx-dust/KingdomCard](https://github.com/chenx-dust/KingdomCard) - 三国杀 - 2023 哈尔滨工业大学（深圳）自动化创新与实践B 项目
+- [PageChen04/KingdomCard](https://github.com/PageChen04/KingdomCard) - 三国杀 - 2023 哈尔滨工业大学（深圳）自动化创新与实践B 项目
 - [KTK-Project/KTK](https://github.com/KTK-Project/KTK) - cocos2dx项目：三国杀
 - [liujun1209/sanguosha](https://github.com/liujun1209/sanguosha) - sanguosha build with cocos2d-x
 - [Mogara/QSanguosha](https://github.com/Mogara/QSanguosha) - An open source online version of the famous board game Sanguosha
@@ -219,6 +219,7 @@
 
 ## Python 
 
+- [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
 - [TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-](https://github.com/TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [Eyewin101/Three-Kingdoms-Card-Game-CG-](https://github.com/Eyewin101/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
