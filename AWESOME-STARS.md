@@ -19,7 +19,6 @@
 - [Lua](#lua)
 - [OpenEdge ABL](#openedge-abl)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -212,10 +211,6 @@
 - [DGAH-works/QSgsHandbook-I](https://github.com/DGAH-works/QSgsHandbook-I) - 新版太阳神三国杀武将扩展学习手册（第一部）
 - [DGAH-works/QSgsHandbook-II](https://github.com/DGAH-works/QSgsHandbook-II) - 新版太阳神三国杀武将扩展学习手册（第二部）
 - [DGAH-works/QSgsAISysTalk](https://github.com/DGAH-works/QSgsAISysTalk) - 太阳神三国杀AI系统设计分析
-
-## PHP 
-
-- [jefferycn/sgol](https://github.com/jefferycn/sgol) - 三国杀 Offline
 
 ## Python 
 
