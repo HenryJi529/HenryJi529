@@ -162,12 +162,21 @@ Chameleon              14 mins         ░░░░░░░░░░░░░�
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Suzan1994">
+        <img src="https://avatars2.githubusercontent.com/u/154345801" width="100px;" alt="Suzan1994"/>
+      </a>
+      <br />
+      <a href="https://github.com/Suzan1994">SuZaN :)</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
       </a>
       <br />
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
@@ -175,8 +184,6 @@ Chameleon              14 mins         ░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
