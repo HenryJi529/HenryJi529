@@ -98,6 +98,7 @@
 
 ## HTML 
 
+- [wawacode/sanguosha_layout](https://github.com/wawacode/sanguosha_layout) - 三国杀布局：前端技术使用HTML+CSS技术实现
 - [zhangshenxing/LTKGeneralList](https://github.com/zhangshenxing/LTKGeneralList) - 三国杀武将列表
 - [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
 - [wteam-xq2/threeKingdoms](https://github.com/wteam-xq2/threeKingdoms) - 三国杀FAQ的发布版
@@ -130,6 +131,7 @@
 
 ## JavaScript 
 
+- [Qsgs-Fans/Qsgs-Fans.github.io](https://github.com/Qsgs-Fans/Qsgs-Fans.github.io) - 
 - [junqdu/LTKDEX](https://github.com/junqdu/LTKDEX) - English DataBase for Legends of the Three Kingdoms
 - [llsccm/timing-reply](https://github.com/llsccm/timing-reply) - 三国杀社区自动抢楼，支持 GitHub Actions
 - [fuck2ky/sgs_script](https://github.com/fuck2ky/sgs_script) - 新三国杀脚本
@@ -187,6 +189,7 @@
 
 ## Others 
 
+- [Qsgs-Fans/freekill-server-list](https://github.com/Qsgs-Fans/freekill-server-list) - 
 - [Mogara/QSanguoshaLines](https://github.com/Mogara/QSanguoshaLines) - Chinese Lines for popular board game Legend of Three Kingdoms. They would be used in QSanguosha, a portable game about LTK.These audio files are all open and free. You can use them without permisson.
 - [yipcma/sango](https://github.com/yipcma/sango) - The PAO numeric mnemonic system based on the Legends of the Three Kingdoms
 - [Sandbird/Legend-of-the-Three-Kingdoms](https://github.com/Sandbird/Legend-of-the-Three-Kingdoms) - 
@@ -214,7 +217,8 @@
 
 ## Python 
 
-- [HenryJi529/HenryJi529](https://github.com/HenryJi529/HenryJi529) - Github主页
+- [Qsgs-Fans/skill-refactor-tool-freekill-0-5-5](https://github.com/Qsgs-Fans/skill-refactor-tool-freekill-0-5-5) - 
+- [Qsgs-Fans/fknewbie](https://github.com/Qsgs-Fans/fknewbie) - 新人指引
 - [TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-](https://github.com/TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [Eyewin101/Three-Kingdoms-Card-Game-CG-](https://github.com/Eyewin101/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
