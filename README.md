@@ -141,6 +141,13 @@ SCSS             14 mins         ██▒░░░░░░░░░░░░�
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
@@ -168,6 +175,8 @@ SCSS             14 mins         ██▒░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
@@ -175,8 +184,6 @@ SCSS             14 mins         ██▒░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
