@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
+- [[系统学习] Redis学习笔记](https://morningstar369.com/blog/1882705929491759106)
 - [[系统学习] Java学习笔记](https://morningstar369.com/blog/1882706504379842562)
+- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 - [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
-- [[系统学习] LeetCode刷题技巧](https://morningstar369.com/blog/1882702512434233346)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
