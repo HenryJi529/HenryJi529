@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
 - [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 - [[零碎知识] Web开发重要概念](https://morningstar369.com/blog/1882708514156101633)
 - [[零碎知识] JavaScript之恶](https://morningstar369.com/blog/1882703140665475074)
-- [[零碎知识] 常见网络安全攻击及防御措施](https://morningstar369.com/blog/1882709261337804801)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
