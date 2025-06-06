@@ -119,7 +119,6 @@
 - [maqiangddb/SanguoshaCore](https://github.com/maqiangddb/SanguoshaCore) - 三国杀的核心类库 Java
 - [AxeChen/SanGuoKillDIY](https://github.com/AxeChen/SanGuoKillDIY) - 三国杀DIY卡片。
 - [shao4598/sanguosha](https://github.com/shao4598/sanguosha) - 这是一个三国杀斗地主战绩管理系统
-- [YJC1234/Sanguosha1v1](https://github.com/YJC1234/Sanguosha1v1) - 模拟三国杀1v1的程序
 - [GrDrHarris/ModKillServer](https://github.com/GrDrHarris/ModKillServer) - 一个可以自己修改的类三国杀游戏服务器
 - [wzk1015/sanguosha](https://github.com/wzk1015/sanguosha) - 文字版三国杀，10000+行java实现
 - [jaiwo99/cards](https://github.com/jaiwo99/cards) - 简单的三国杀发牌机
