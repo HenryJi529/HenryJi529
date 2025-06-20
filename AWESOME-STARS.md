@@ -121,7 +121,6 @@
 - [shao4598/sanguosha](https://github.com/shao4598/sanguosha) - 这是一个三国杀斗地主战绩管理系统
 - [GrDrHarris/ModKillServer](https://github.com/GrDrHarris/ModKillServer) - 一个可以自己修改的类三国杀游戏服务器
 - [wzk1015/sanguosha](https://github.com/wzk1015/sanguosha) - 文字版三国杀，10000+行java实现
-- [jaiwo99/cards](https://github.com/jaiwo99/cards) - 简单的三国杀发牌机
 - [xutao1988/How-to-Play-Sanguo-Killer](https://github.com/xutao1988/How-to-Play-Sanguo-Killer) - 三国杀必备知识普及app，居家旅行三国杀友的必备良品
 - [Clovertjp/KillersOfThreeKingdom](https://github.com/Clovertjp/KillersOfThreeKingdom) - 三国杀
 - [EVWang/sanguosha-alpha](https://github.com/EVWang/sanguosha-alpha) - 基于java gui实现的三国杀by wangfuyuan
