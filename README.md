@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[系统学习] Elasticsearch学习笔记](https://morningstar369.com/blog/1882707734816669697)
 - [[系统学习] Nginx学习笔记](https://morningstar369.com/blog/1882705133744209921)
 - [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
-- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
