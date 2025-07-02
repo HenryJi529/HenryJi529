@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [GreyKL/python_game](https://github.com/GreyKL/python_game) - some little games
 - [Qsgs-Fans/skill-refactor-tool-freekill-0-5-5](https://github.com/Qsgs-Fans/skill-refactor-tool-freekill-0-5-5) - 
 - [Qsgs-Fans/fknewbie](https://github.com/Qsgs-Fans/fknewbie) - 新人指引
 - [TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-](https://github.com/TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
