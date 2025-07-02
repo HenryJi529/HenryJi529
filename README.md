@@ -73,9 +73,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[零碎知识] 驾考科目一难点手册](https://morningstar369.com/blog/1939535494904528898)
 - [[系统学习] Docker学习笔记](https://morningstar369.com/blog/1882703804221145090)
-- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[系统学习] Elasticsearch学习笔记](https://morningstar369.com/blog/1882707734816669697)
 <!-- BLOG-POST-LIST:END -->
 
