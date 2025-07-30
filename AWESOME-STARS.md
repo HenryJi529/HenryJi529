@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [GreyKL/python_game](https://github.com/GreyKL/python_game) - some little games
 - [Qsgs-Fans/skill-refactor-tool-freekill-0-5-5](https://github.com/Qsgs-Fans/skill-refactor-tool-freekill-0-5-5) - 
 - [Qsgs-Fans/fknewbie](https://github.com/Qsgs-Fans/fknewbie) - 新人指引
