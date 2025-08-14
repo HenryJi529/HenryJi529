@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[趣谈漫聊] 泰拉瑞亚相关常识](https://morningstar369.com/blog/1882707038218272769)
+- [[趣谈漫聊] TShock操作笔记](https://morningstar369.com/blog/1882707244775161857)
 - [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
-- [[系统学习] Java学习笔记](https://morningstar369.com/blog/1882706504379842562)
-- [[零碎知识] 驾考科目一难点手册](https://morningstar369.com/blog/1939535494904528898)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
