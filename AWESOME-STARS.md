@@ -179,7 +179,7 @@
 - [DGAH/QSanguoshaLearningSystem](https://github.com/DGAH/QSanguoshaLearningSystem) - 新版太阳神三国杀扩展开发学习体系
 - [QLyceum/QImagineAI](https://github.com/QLyceum/QImagineAI) - 
 - [DGAH/QImagineAI](https://github.com/DGAH/QImagineAI) - 太阳神三国杀·幻想天使AI体系（实验版）
-- [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Sanguosha (三国杀, a.k.a. Legend of Three Kingdoms, LTK) written in Qt and Lua.
+- [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Yet another sanguosha clone, written in Qt and Lua.
 
 ## OpenEdge ABL 
 
@@ -215,10 +215,10 @@
 
 ## Python 
 
+- [KeNanXiaoLin/sgsminigame](https://github.com/KeNanXiaoLin/sgsminigame) - 三国杀钓鱼小游戏自动化脚本
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [GreyKL/python_game](https://github.com/GreyKL/python_game) - some little games
 - [Qsgs-Fans/skill-refactor-tool-freekill-0-5-5](https://github.com/Qsgs-Fans/skill-refactor-tool-freekill-0-5-5) - 
-- [Qsgs-Fans/fknewbie](https://github.com/Qsgs-Fans/fknewbie) - 新人指引
 - [TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-](https://github.com/TheRealProgamBoy/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [Eyewin101/Three-Kingdoms-Card-Game-CG-](https://github.com/Eyewin101/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
@@ -235,6 +235,7 @@
 
 ## Shell 
 
+- [KelvinQQ/SgsSkin](https://github.com/KelvinQQ/SgsSkin) - 三国杀武将皮肤
 - [elobrate/SanguoshaSkin](https://github.com/elobrate/SanguoshaSkin) - 三国杀皮肤【不是很高清】（基本是两年前的版本吗），不清楚有多少
 
 ## TypeScript 
