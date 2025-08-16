@@ -10,6 +10,8 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CoffeeScript](#coffeescript)
+- [Dart](#dart)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -35,6 +37,10 @@
 
 ## C# # 
 
+- [johntang27/Sanguosha](https://github.com/johntang27/Sanguosha) - English translation
+- [darren4ten/MyHeroKillRefactor](https://github.com/darren4ten/MyHeroKillRefactor) - 第二种方式实现英雄杀
+- [AlaricGilbert/sanguo](https://github.com/AlaricGilbert/sanguo) - A implementation for decktop gaming- "San Guo Sha"
+- [Yokinokazan/UniKill](https://github.com/Yokinokazan/UniKill) - San Guo Sha made with the Unity engine.
 - [chuckbear/CamelChampionship](https://github.com/chuckbear/CamelChampionship) - This is an open source entertainment project for "Legends of the Three Kingdoms" wechat group.
 - [Nomeleel/legends-of-the-three-kingdoms](https://github.com/Nomeleel/legends-of-the-three-kingdoms) - Legends of the three kingdoms.
 - [MichaelWei1990/LegendsOfTheThreeKingdoms](https://github.com/MichaelWei1990/LegendsOfTheThreeKingdoms) - 
@@ -51,6 +57,11 @@
 
 ## C++ 
 
+- [Ecohnoch/myQSanguosha](https://github.com/Ecohnoch/myQSanguosha) - Sanguosha made by myself...... but I don't think this project can be finished.....(black face
+- [guangmingzhengda/Sanguosha](https://github.com/guangmingzhengda/Sanguosha) - 
+- [SimonKeisala/SanGuoSha](https://github.com/SimonKeisala/SanGuoSha) - 
+- [KailiDing1121/SanGuoSha](https://github.com/KailiDing1121/SanGuoSha) - An existing card game...
+- [itismyera/SanGuoSha](https://github.com/itismyera/SanGuoSha) - 
 - [JiangDazhao/Cplusplus-Project-card-game](https://github.com/JiangDazhao/Cplusplus-Project-card-game) - Developed in C++ a card game, named “Legends of the Three Kingdoms”
 - [0x00b/sgs](https://github.com/0x00b/sgs) - Legends of the Three Kingdoms
 - [HiCode2009/Legends-of-the-Three-Kingdoms](https://github.com/HiCode2009/Legends-of-the-Three-Kingdoms) - 三国杀是一款原创桌游，集历史、美术、卡牌等元素于一身的原创三国策略卡牌游戏。
@@ -87,6 +98,15 @@
 - [JavaProgrammerLB/SanGuoShaGaoShou](https://github.com/JavaProgrammerLB/SanGuoShaGaoShou) - 三国杀高手
 - [1464691115/sanguosha](https://github.com/1464691115/sanguosha) - 三国杀
 
+## CoffeeScript 
+
+- [chanind/sanguosha-english](https://github.com/chanind/sanguosha-english) - A simple website with English translations of Sanguosha (三国杀) cards
+
+## Dart 
+
+- [CheerfulMinions/SanGuoSha_General_Improvement](https://github.com/CheerfulMinions/SanGuoSha_General_Improvement) - 本软件主要用于面杀时会用到的 部分武将增强
+- [kevinmore/san_guo_sha](https://github.com/kevinmore/san_guo_sha) - 
+
 ## Go 
 
 - [shelton-hu/legends-of-three-kingdoms](https://github.com/shelton-hu/legends-of-three-kingdoms) - 
@@ -98,6 +118,12 @@
 
 ## HTML 
 
+- [biqiaoran629/SanguoshaClub](https://github.com/biqiaoran629/SanguoshaClub) - 
+- [gali8849/SGS](https://github.com/gali8849/SGS) - English Translation for Heroes in SanGuoSha
+- [RainsClear3/newSanguosha-ten-year-anniversary-](https://github.com/RainsClear3/newSanguosha-ten-year-anniversary-) - 三国杀十周年逐鹿天下105关自动刷脚本
+- [EraserTeam/EraserSanGuoSha-Web](https://github.com/EraserTeam/EraserSanGuoSha-Web) - 
+- [life0001/lunbo_Game](https://github.com/life0001/lunbo_Game) - 仿腾讯游戏《英雄杀》官网Flash效果
+- [Yicyc/HeroKill](https://github.com/Yicyc/HeroKill) - 英雄杀游戏活动道具统计
 - [wawacode/sanguosha_layout](https://github.com/wawacode/sanguosha_layout) - 三国杀布局：前端技术使用HTML+CSS技术实现
 - [zhangshenxing/LTKGeneralList](https://github.com/zhangshenxing/LTKGeneralList) - 三国杀武将列表
 - [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
@@ -105,6 +131,14 @@
 
 ## Java 
 
+- [Ashsandra/Three-Kingdoms](https://github.com/Ashsandra/Three-Kingdoms) - This is a self-created Java version of a Chinese board game called Sanguosha
+- [ModinMobileSTS/SanguoshaMobile](https://github.com/ModinMobileSTS/SanguoshaMobile) - 
+- [moontide/TideBot](https://github.com/moontide/TideBot) - 我的 IRC 机器人，虽然这个 Bot 能让聊天者在 IRC 里玩游戏，但除了游戏，还有其他很多功能。
+- [Kevin-Dang/SanGuoShaEnglish](https://github.com/Kevin-Dang/SanGuoShaEnglish) - English translation of the chinese card game sanguosha
+- [Gavin-JN/SanGuoSha](https://github.com/Gavin-JN/SanGuoSha) - 
+- [noseparte/hero-kill-web](https://github.com/noseparte/hero-kill-web) - :snowflake: 英雄杀三部曲：游戏后台管理系统 后端篇
+- [noseparte/hero-kill](https://github.com/noseparte/hero-kill) - :snowflake: 英雄杀三部曲：英雄杀-游戏服务器
+- [vedopar/android_sgs](https://github.com/vedopar/android_sgs) - san guo sha 1v1
 - [yvoliuone/ThreeKingdoms](https://github.com/yvoliuone/ThreeKingdoms) - A Java implementation of the Chinese board game "Legend of the Three Kingdoms"
 - [freesgs/sgs](https://github.com/freesgs/sgs) - freesgs(Legends of the Three Kingdoms)
 - [huangken8511429/Legends-of-The-Three-Kingdoms](https://github.com/huangken8511429/Legends-of-The-Three-Kingdoms) - 
@@ -129,6 +163,13 @@
 
 ## JavaScript 
 
+- [sgserve/service](https://github.com/sgserve/service) - 三国杀资源替换工具
+- [lauwilson/SGS-Wiki](https://github.com/lauwilson/SGS-Wiki) - A mobile card translation App for the Chinese card game "San Guo Sha" using React Native.
+- [xytxxx/SanGuoSha-characters](https://github.com/xytxxx/SanGuoSha-characters) - Quick lookup of SanGuoSha characters in English built with React
+- [OliverQuine/sanGuoSha](https://github.com/OliverQuine/sanGuoSha) - 
+- [Fly-Xu-cmd/san-guo-sha](https://github.com/Fly-Xu-cmd/san-guo-sha) - 
+- [HullQin/yxs](https://github.com/HullQin/yxs) - 英雄杀（微信小游戏）手工记牌器。
+- [Stinggyray/sanguosha-english-react](https://github.com/Stinggyray/sanguosha-english-react) - San Guo Sha English guide website.
 - [Qsgs-Fans/Qsgs-Fans.github.io](https://github.com/Qsgs-Fans/Qsgs-Fans.github.io) - 
 - [junqdu/LTKDEX](https://github.com/junqdu/LTKDEX) - English DataBase for Legends of the Three Kingdoms
 - [llsccm/timing-reply](https://github.com/llsccm/timing-reply) - 三国杀社区自动抢楼，支持 GitHub Actions
@@ -160,12 +201,17 @@
 
 ## Kotlin 
 
+- [oscarzhang795/SanGuoShaEnglish](https://github.com/oscarzhang795/SanGuoShaEnglish) - 
 - [JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-](https://github.com/JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-) - Create the game with different characters, cards and functions using Kotlin.
 - [czp3009/LegendsOfTheThreeKingdoms](https://github.com/czp3009/LegendsOfTheThreeKingdoms) - 三国杀!
 - [lvmaozilinke/sgsmszs](https://github.com/lvmaozilinke/sgsmszs) - 三国杀面杀助手
 
 ## Lua 
 
+- [baisebaoma/jianyu](https://github.com/baisebaoma/jianyu) - 《简浴包》是游戏《新月杀》的一个扩展包，其中包含我和我的好朋友们的原创武将！
+- [Tianyue-Guo/FreeKill_DMV](https://github.com/Tianyue-Guo/FreeKill_DMV) - Kudos to FreeKill, Open Source San Guo Sha Game. https://github.com/Qsgs-Fans/FreeKill. Amendments are made in order to implement online multiplayer mode through NAT Traversal using frp and to add mor
+- [umimori13/sanguosha-wuhei](https://github.com/umimori13/sanguosha-wuhei) - 太阳神三国杀自制的lua英雄扩展包
+- [kwongdroid/QYingXiongSha](https://github.com/kwongdroid/QYingXiongSha) - 基于太阳神英雄杀2017全身版+扩展，增加宝具功能。本项目内宝具与英雄杀手游已开放主辅印同步
 - [Mogara/LuaSkillsForQSGS](https://github.com/Mogara/LuaSkillsForQSGS) - 新版太阳神三国杀武将技能代码速查手册（Lua版）
 - [DZDcyj/QSGS-v2-Lua](https://github.com/DZDcyj/QSGS-v2-Lua) - 基于太阳神三国杀 QSanguosha-v2-20190208 编写的武将，使用 Lua 作为开发语言
 - [yiweizhi-github/three_kingdoms_kill](https://github.com/yiweizhi-github/three_kingdoms_kill) - 
@@ -187,6 +233,17 @@
 
 ## Others 
 
+- [evenwrong/SGSUiPathProcess](https://github.com/evenwrong/SGSUiPathProcess) - UiPath process for Sanguosha automation, such as Zhulu.
+- [oaglazunova/SanguoshaHelper](https://github.com/oaglazunova/SanguoshaHelper) - 
+- [liufeng8086/sanguosha](https://github.com/liufeng8086/sanguosha) - sanguosha
+- [re100io/san_guo_sha_mvp](https://github.com/re100io/san_guo_sha_mvp) - 三国杀游戏模拟
+- [zeyulin/SanGuoSha](https://github.com/zeyulin/SanGuoSha) - 
+- [Val-Chris021/SanGuoSha](https://github.com/Val-Chris021/SanGuoSha) - 
+- [Kyotowired/SanGuoShaEng](https://github.com/Kyotowired/SanGuoShaEng) - 
+- [txm9512/-](https://github.com/txm9512/-) - 英雄数据库,斩杀线计算,召唤师技能CD计时等
+- [SFUMECJF/Hero-kill-invite-code](https://github.com/SFUMECJF/Hero-kill-invite-code) - 英雄杀邀请码，不断尝试，找到没注册过的邀请码
+- [nigoolasi/-](https://github.com/nigoolasi/-) - 英雄杀 C++代码实现
+- [ofengxxx/ofengxxx](https://github.com/ofengxxx/ofengxxx) - san guo sha
 - [Qsgs-Fans/freekill-server-list](https://github.com/Qsgs-Fans/freekill-server-list) - 
 - [Mogara/QSanguoshaLines](https://github.com/Mogara/QSanguoshaLines) - Chinese Lines for popular board game Legend of Three Kingdoms. They would be used in QSanguosha, a portable game about LTK.These audio files are all open and free. You can use them without permisson.
 - [yipcma/sango](https://github.com/yipcma/sango) - The PAO numeric mnemonic system based on the Legends of the Three Kingdoms
@@ -215,6 +272,11 @@
 
 ## Python 
 
+- [super128/sanguosha10th](https://github.com/super128/sanguosha10th) - 三国杀十周年自动刷逐鹿
+- [AsyncThreadSleep/San-Guo-Sha_Automatic-Fishing](https://github.com/AsyncThreadSleep/San-Guo-Sha_Automatic-Fishing) - 用于实现三国杀阿超钓鱼自动钓鱼
+- [Lwdhski/SanGuoSha-ZiZouQi](https://github.com/Lwdhski/SanGuoSha-ZiZouQi) - 
+- [MikeLing/SanGuoShaCard](https://github.com/MikeLing/SanGuoShaCard) - A test from PingCap
+- [noseparte/hero-kills-reptile](https://github.com/noseparte/hero-kills-reptile) - :snowflake: 英雄杀三部曲：英雄杀爬虫项目, 爬取英雄资料以及卡牌信息
 - [KeNanXiaoLin/sgsminigame](https://github.com/KeNanXiaoLin/sgsminigame) - 三国杀钓鱼小游戏自动化脚本
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [GreyKL/python_game](https://github.com/GreyKL/python_game) - some little games
@@ -240,6 +302,10 @@
 
 ## TypeScript 
 
+- [Mogara/opensgs-ui](https://github.com/Mogara/opensgs-ui) - UI of OpenSGS
+- [BlueChocolate/SanguoshaExtensionTools](https://github.com/BlueChocolate/SanguoshaExtensionTools) - 对各类开源三国杀的扩展包（针对太阳神三国杀、无名杀等）提供编写支持的 VS Code 插件
+- [Crazy-A2/ThreeKingdomsKilling](https://github.com/Crazy-A2/ThreeKingdomsKilling) - 一个由 tauri + qwik city 开发的仿三国杀卡牌游戏
+- [LuSuAllen/WebSanGuoSha](https://github.com/LuSuAllen/WebSanGuoSha) - 
 - [shawroger/zcp-calculator](https://github.com/shawroger/zcp-calculator) - 三国杀张昌蒲计算器(WEB)
 - [CatScarf/Lyciumaker](https://github.com/CatScarf/Lyciumaker) - 在线三国杀卡牌制作器
 - [fenghengzhi/sanguosha](https://github.com/fenghengzhi/sanguosha) - 
@@ -253,6 +319,7 @@
 
 ## Vue 
 
+- [noseparte/hero-kill-admin](https://github.com/noseparte/hero-kill-admin) - :snowflake: 英雄杀三部曲：游戏后台管理系统 前端篇
 - [Passerby-D/noname_audio](https://github.com/Passerby-D/noname_audio) - 三国杀语音小助手，方便面杀的小伙伴喊台词
 
 
