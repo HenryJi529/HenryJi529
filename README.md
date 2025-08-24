@@ -141,11 +141,25 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/helallao">
+        <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+      </a>
+      <br />
+      <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
       </a>
       <br />
       <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seckinyasar">
+        <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+      </a>
+      <br />
+      <a href="https://github.com/seckinyasar">Seckin Yasar</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
@@ -161,6 +175,8 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/filedonkey">
         <img src="https://avatars2.githubusercontent.com/u/206841003" width="100px;" alt="filedonkey"/>
@@ -175,8 +191,6 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
@@ -212,6 +226,8 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PearlyWave">
         <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
@@ -226,8 +242,6 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
