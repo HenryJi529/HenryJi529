@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[趣谈漫聊] 是大臣/首相文段摘录](https://morningstar369.com/blog/1882706929023762434)
-- [[零碎知识] 驾考科目三灯光操作表​](https://morningstar369.com/blog/1956886432931459073)
-- [[趣谈漫聊] 泰拉瑞亚相关常识](https://morningstar369.com/blog/1882707038218272769)
-- [[趣谈漫聊] TShock操作笔记](https://morningstar369.com/blog/1882707244775161857)
+- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
+- [[系统学习] Elasticsearch学习笔记](https://morningstar369.com/blog/1882707734816669697)
+- [[系统学习] Nginx学习笔记](https://morningstar369.com/blog/1882705133744209921)
+- [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
