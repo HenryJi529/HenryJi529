@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[零碎知识] 驾考科目三灯光操作表​](https://morningstar369.com/blog/1962403632181215234)
-- [[零碎知识] 驾考科目一难点手册](https://morningstar369.com/blog/1962412064948035586)
-- [[系统学习] Vue3全家桶学习笔记](https://morningstar369.com/blog/1882708162430156801)
+- [[趣谈漫聊] 是大臣/首相文段摘录](https://morningstar369.com/blog/1882706929023762434)
 - [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
+- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
+- [[系统学习] Java学习笔记](https://morningstar369.com/blog/1882706504379842562)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
