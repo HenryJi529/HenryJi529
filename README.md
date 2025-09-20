@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[趣谈漫聊] TShock操作笔记](https://morningstar369.com/blog/1882707244775161857)
 - [[系统学习] Vue3全家桶学习笔记](https://morningstar369.com/blog/1882708162430156801)
 - [[趣谈漫聊] 是大臣/首相文段摘录](https://morningstar369.com/blog/1882706929023762434)
-- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
