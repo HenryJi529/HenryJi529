@@ -148,18 +148,18 @@ Other        21 mins         █▒░░░░░░░░░░░░░░░
       <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seckinyasar">
         <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
       </a>
       <br />
       <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
