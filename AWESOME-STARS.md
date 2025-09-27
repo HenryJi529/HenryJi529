@@ -202,7 +202,6 @@
 ## Kotlin 
 
 - [oscarzhang795/SanGuoShaEnglish](https://github.com/oscarzhang795/SanGuoShaEnglish) - 
-- [JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-](https://github.com/JennyChimHY/COMP4107-Legend-of-the-Three-Kingdoms-Sanguosha-) - Create the game with different characters, cards and functions using Kotlin.
 - [czp3009/LegendsOfTheThreeKingdoms](https://github.com/czp3009/LegendsOfTheThreeKingdoms) - 三国杀!
 - [lvmaozilinke/sgsmszs](https://github.com/lvmaozilinke/sgsmszs) - 三国杀面杀助手
 
