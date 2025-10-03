@@ -141,13 +141,6 @@ HTML         34 mins         █░░░░░░░░░░░░░░░░
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/helallao">
-        <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-      </a>
-      <br />
-      <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seckinyasar">
         <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
       </a>
@@ -175,8 +168,6 @@ HTML         34 mins         █░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lilaroky">
         <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>
@@ -184,6 +175,8 @@ HTML         34 mins         █░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
@@ -226,8 +219,6 @@ HTML         34 mins         █░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Miercy">
         <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
@@ -235,6 +226,8 @@ HTML         34 mins         █░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
