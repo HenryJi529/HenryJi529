@@ -141,13 +141,6 @@ HTML         9 mins          ▓░░░░░░░░░░░░░░░░
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seckinyasar">
-        <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
-      </a>
-      <br />
-      <a href="https://github.com/seckinyasar">Seckin Yasar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
       </a>
@@ -175,8 +168,6 @@ HTML         9 mins          ▓░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
@@ -184,6 +175,8 @@ HTML         9 mins          ▓░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
@@ -226,8 +219,6 @@ HTML         9 mins          ▓░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
