@@ -126,7 +126,7 @@
 - [Yicyc/HeroKill](https://github.com/Yicyc/HeroKill) - 英雄杀游戏活动道具统计
 - [wawacode/sanguosha_layout](https://github.com/wawacode/sanguosha_layout) - 三国杀布局：前端技术使用HTML+CSS技术实现
 - [zhangshenxing/LTKGeneralList](https://github.com/zhangshenxing/LTKGeneralList) - 三国杀武将列表
-- [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
+- [fthux/Characters_of_the_Three_Kingdoms](https://github.com/fthux/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
 - [wteam-xq2/threeKingdoms](https://github.com/wteam-xq2/threeKingdoms) - 三国杀FAQ的发布版
 
 ## Java 
