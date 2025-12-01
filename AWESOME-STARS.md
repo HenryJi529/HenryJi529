@@ -224,7 +224,7 @@
 - [DGAH/QSanguoshaLearningSystem](https://github.com/DGAH/QSanguoshaLearningSystem) - 新版太阳神三国杀扩展开发学习体系
 - [QLyceum/QImagineAI](https://github.com/QLyceum/QImagineAI) - 
 - [DGAH/QImagineAI](https://github.com/DGAH/QImagineAI) - 太阳神三国杀·幻想天使AI体系（实验版）
-- [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Yet another sanguosha clone, written in Qt and Lua.
+- [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
 
 ## OpenEdge ABL 
 
