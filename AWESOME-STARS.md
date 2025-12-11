@@ -43,7 +43,6 @@
 - [Yokinokazan/UniKill](https://github.com/Yokinokazan/UniKill) - San Guo Sha made with the Unity engine.
 - [chuckbear/CamelChampionship](https://github.com/chuckbear/CamelChampionship) - This is an open source entertainment project for "Legends of the Three Kingdoms" wechat group.
 - [Nomeleel/legends-of-the-three-kingdoms](https://github.com/Nomeleel/legends-of-the-three-kingdoms) - Legends of the three kingdoms.
-- [MichaelWei1990/LegendsOfTheThreeKingdoms](https://github.com/MichaelWei1990/LegendsOfTheThreeKingdoms) - 
 - [noobiesgs/Sanguosha](https://github.com/noobiesgs/Sanguosha) - 
 - [WillJun/sgs](https://github.com/WillJun/sgs) - This is a server-client sanguosha （三国杀） game
 - [mengtest/Three-Kingdoms](https://github.com/mengtest/Three-Kingdoms) - 经典卡牌游戏:三国无双
