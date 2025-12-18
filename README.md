@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Vue3全家桶学习笔记](https://morningstar369.com/blog/1882708162430156801)
 - [[系统学习] 银行从业相关知识学习笔记](https://morningstar369.com/blog/1979393271166472194)
 - [[零碎知识] Web服务器管理工具](https://morningstar369.com/blog/1882698783903498241)
 - [[零碎知识] 驾考科目三记忆点](https://morningstar369.com/blog/1962403632181215234)
-- [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
