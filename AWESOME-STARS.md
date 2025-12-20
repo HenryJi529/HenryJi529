@@ -191,7 +191,7 @@
 - [wteam-xq/tkd_web](https://github.com/wteam-xq/tkd_web) - 三国杀faq 第三版（模块化开发）
 - [wteam-xq/tkd_server](https://github.com/wteam-xq/tkd_server) - 三国杀faq 第三版（后台管理）
 - [1045922393/sanguosha](https://github.com/1045922393/sanguosha) - 三国杀武将抽取
-- [AIJIJI/sgszs](https://github.com/AIJIJI/sgszs) - 三国杀面杀助手
+- [yohhei/sgszs](https://github.com/yohhei/sgszs) - 三国杀面杀助手
 - [FarAfield/momiolo-lolkill](https://github.com/FarAfield/momiolo-lolkill) - 联盟杀
 - [RainEggplant/noname-pwa](https://github.com/RainEggplant/noname-pwa) - Progressive Web App of noname | 无名杀的 “渐进式网络应用程序” 版本 #三国杀
 - [RainEggplant/noname-PWA_archived](https://github.com/RainEggplant/noname-PWA_archived) - Progressive Web App of noname | 无名杀的 “渐进式网络应用程序” 版本 #三国杀
