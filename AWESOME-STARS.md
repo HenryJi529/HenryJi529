@@ -142,7 +142,6 @@
 - [freesgs/sgs](https://github.com/freesgs/sgs) - freesgs(Legends of the Three Kingdoms)
 - [huangken8511429/Legends-of-The-Three-Kingdoms](https://github.com/huangken8511429/Legends-of-The-Three-Kingdoms) - 
 - [Mrducan1245/AutoClickPro](https://github.com/Mrducan1245/AutoClickPro) - 安卓自动点击软件，可以每天定时点击，用来抢票，三国杀什么的
-- [mzEntity/sanguosha](https://github.com/mzEntity/sanguosha) - 
 - [CstJava/sanguoshaTest](https://github.com/CstJava/sanguoshaTest) - 
 - [hanzhicuilin/Sanguosha](https://github.com/hanzhicuilin/Sanguosha) - Sanguosha
 - [darren4ten/JavaSanguosha](https://github.com/darren4ten/JavaSanguosha) - java版三国杀
