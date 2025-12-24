@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] Sass学习笔记](https://morningstar369.com/blog/1882708053235646465)
 - [[系统学习] 软件工程相关常识](https://morningstar369.com/blog/2002925310925152257)
 - [[系统学习] Redis学习笔记](https://morningstar369.com/blog/1882705929491759106)
 - [[系统学习] Vue3全家桶学习笔记](https://morningstar369.com/blog/1882708162430156801)
-- [[系统学习] 银行从业相关知识学习笔记](https://morningstar369.com/blog/1979393271166472194)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
