@@ -200,7 +200,6 @@
 ## Kotlin 
 
 - [oscarzhang795/SanGuoShaEnglish](https://github.com/oscarzhang795/SanGuoShaEnglish) - 
-- [czp3009/LegendsOfTheThreeKingdoms](https://github.com/czp3009/LegendsOfTheThreeKingdoms) - 三国杀!
 - [lvmaozilinke/sgsmszs](https://github.com/lvmaozilinke/sgsmszs) - 三国杀面杀助手
 
 ## Lua 
