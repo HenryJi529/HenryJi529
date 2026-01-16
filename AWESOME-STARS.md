@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [super128/sanguosha10th](https://github.com/super128/sanguosha10th) - 三国杀十周年自动刷逐鹿
 - [AsyncThreadSleep/San-Guo-Sha_Automatic-Fishing](https://github.com/AsyncThreadSleep/San-Guo-Sha_Automatic-Fishing) - 用于实现三国杀阿超钓鱼自动钓鱼
 - [Lwdhski/SanGuoSha-ZiZouQi](https://github.com/Lwdhski/SanGuoSha-ZiZouQi) - 
