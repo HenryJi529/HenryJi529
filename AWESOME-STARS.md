@@ -301,7 +301,6 @@
 
 - [Mogara/opensgs-ui](https://github.com/Mogara/opensgs-ui) - UI of OpenSGS
 - [BlueChocolate/SanguoshaExtensionTools](https://github.com/BlueChocolate/SanguoshaExtensionTools) - 对各类开源三国杀的扩展包（针对太阳神三国杀、无名杀等）提供编写支持的 VS Code 插件
-- [Crazy-A2/ThreeKingdomsKilling](https://github.com/Crazy-A2/ThreeKingdomsKilling) - 一个由 tauri + qwik city 开发的仿三国杀卡牌游戏
 - [LuSuAllen/WebSanGuoSha](https://github.com/LuSuAllen/WebSanGuoSha) - 
 - [shawroger/zcp-calculator](https://github.com/shawroger/zcp-calculator) - 三国杀张昌蒲计算器(WEB)
 - [CatScarf/Lyciumaker](https://github.com/CatScarf/Lyciumaker) - 在线三国杀卡牌制作器
