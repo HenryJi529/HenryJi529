@@ -56,7 +56,6 @@
 
 ## C++ 
 
-- [Ecohnoch/myQSanguosha](https://github.com/Ecohnoch/myQSanguosha) - Sanguosha made by myself...... but I don't think this project can be finished.....(black face
 - [guangmingzhengda/Sanguosha](https://github.com/guangmingzhengda/Sanguosha) - 
 - [SimonKeisala/SanGuoSha](https://github.com/SimonKeisala/SanGuoSha) - 
 - [KailiDing1121/SanGuoSha](https://github.com/KailiDing1121/SanGuoSha) - An existing card game...
