@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
 - [[零碎知识] 数仓本体论](https://morningstar369.com/blog/2043538497586802689)
 - [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 - [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
-- [[系统学习] Vue3全家桶学习笔记](https://morningstar369.com/blog/1882708162430156801)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
