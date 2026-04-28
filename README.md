@@ -206,6 +206,13 @@ XML              1 hr 32 mins          ██░░░░░░░░░░░�
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
+      <a href="https://github.com/davingm">
+        <img src="https://avatars2.githubusercontent.com/u/228851591" width="100px;" alt="davingm"/>
+      </a>
+      <br />
+      <a href="https://github.com/davingm">Kinn</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
       </a>
@@ -219,6 +226,8 @@ XML              1 hr 32 mins          ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Miercy">
         <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
@@ -226,8 +235,6 @@ XML              1 hr 32 mins          ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
