@@ -73,10 +73,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[零碎知识] Web开发重要概念](https://morningstar369.com/blog/1882708514156101633)
 - [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[系统学习] MySQL学习笔记](https://morningstar369.com/blog/1882706044596043778)
 - [[零碎知识] 数仓本体论](https://morningstar369.com/blog/2043538497586802689)
-- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 <!-- BLOG-POST-LIST:END -->
 
 **🗂️ My Projects**
