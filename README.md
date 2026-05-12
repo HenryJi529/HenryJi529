@@ -21,28 +21,8 @@
 - [[零碎知识] 数仓本体论](https://morningstar369.com/blog/2043538497586802689)
 <!-- BLOG-POST-LIST:END -->
 
-**🗂️ My Projects**
-
-<div align="center">
-	<a href="https://github.com/HenryJi529/NextMorningstar">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=NextMorningstar"
-			alt="NextMorningstar Card" width="45%" />
-	</a>
-	<a href="https://github.com/HenryJi529/MorningstarPaper">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=MorningstarPaper"
-			alt="MorningstarPaper Card" width="45%" />
-	</a>
-	<a href="https://github.com/HenryJi529/LocalDevEnvironment">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=LocalDevEnvironment"
-			alt="LocalDevEnvironment Card" width="45%" />
-	</a>
-	<a href="https://github.com/HenryJi529/AlgorithmJourney">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=AlgorithmJourney"
-			alt="AlgorithmJourney Card" width="45%" />
-	</a>
-</div>
-
 ---
+
 **📊 Monthly coding time**
 
 <!--START_SECTION:waka-->
