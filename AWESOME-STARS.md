@@ -281,7 +281,6 @@
 - [Eyewin101/Three-Kingdoms-Card-Game-CG-](https://github.com/Eyewin101/Three-Kingdoms-Card-Game-CG-) - An attempt to create the "Legend of the Three Kingdoms" card game because the Chinese website for it blocks all foreigners from playing the game.
 - [NorthenFleet/sanguosha](https://github.com/NorthenFleet/sanguosha) - 三国杀
 - [SpiritedAwayCN/SGS-WeChatAutoClock](https://github.com/SpiritedAwayCN/SGS-WeChatAutoClock) - 微信三国杀公众号一键打卡工具
-- [2144533854/SGS_Script_Based_Opencv](https://github.com/2144533854/SGS_Script_Based_Opencv) - 基于OpenCV的三国杀手游脚本
 - [jiangcy1994/SgsDaily](https://github.com/jiangcy1994/SgsDaily) - 三国杀脚本做每日
 - [KevinStarry/sanguosha_py](https://github.com/KevinStarry/sanguosha_py) - 三国杀python脚本-基于鼠标点击
 - [BearGroysenHe/SanGuoSha](https://github.com/BearGroysenHe/SanGuoSha) - 
