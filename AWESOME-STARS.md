@@ -313,6 +313,7 @@
 
 ## Vue 
 
+- [GreyKL/the-stars](https://github.com/GreyKL/the-stars) - 人类群星闪耀时
 - [noseparte/hero-kill-admin](https://github.com/noseparte/hero-kill-admin) - :snowflake: 英雄杀三部曲：游戏后台管理系统 前端篇
 - [Passerby-D/noname_audio](https://github.com/Passerby-D/noname_audio) - 三国杀语音小助手，方便面杀的小伙伴喊台词
 
