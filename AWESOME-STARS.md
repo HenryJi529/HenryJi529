@@ -5,7 +5,12 @@
 
 ## Contents
 
+- [TypeScript](#typescript)
 - [Vue](#vue)
+
+## TypeScript 
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 
 ## Vue 
 
