@@ -5,11 +5,22 @@
 
 ## Contents
 
+- [Java](#java)
+- [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## Java 
+
+- [Game-as-a-Service/Legends-of-The-Three-Kingdoms](https://github.com/Game-as-a-Service/Legends-of-The-Three-Kingdoms) - 三國殺
+
+## JavaScript 
+
+- [libnoname/noname](https://github.com/libnoname/noname) - 
+
 ## TypeScript 
 
+- [Game-as-a-Service/Legends-of-The-Three-Kingdoms-FE](https://github.com/Game-as-a-Service/Legends-of-The-Three-Kingdoms-FE) - 三國殺前端
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 
 ## Vue 
