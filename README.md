@@ -56,6 +56,13 @@ JSON             1 hr 2 mins           ██░░░░░░░░░░░�
       <a href="https://github.com/cumsoft">cumsoft</a>
     </td>
     <td align="center">
+      <a href="https://github.com/seckinyasar">
+        <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+      </a>
+      <br />
+      <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
@@ -90,6 +97,8 @@ JSON             1 hr 2 mins           ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lilaroky">
         <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>
@@ -97,8 +106,6 @@ JSON             1 hr 2 mins           ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
@@ -141,6 +148,8 @@ JSON             1 hr 2 mins           ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Miercy">
         <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
@@ -148,8 +157,6 @@ JSON             1 hr 2 mins           ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
