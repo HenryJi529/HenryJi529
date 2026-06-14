@@ -5,21 +5,37 @@
 
 ## Contents
 
+- [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Others](#others)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## Go 
+
+- [Mogara/OpenSGS](https://github.com/Mogara/OpenSGS) - 
+
 ## Java 
 
+- [shao4598/sanguosha](https://github.com/shao4598/sanguosha) - 这是一个三国杀斗地主战绩管理系统
+- [darren4ten/JavaSanguosha](https://github.com/darren4ten/JavaSanguosha) - java版三国杀
+- [wzk1015/sanguosha](https://github.com/wzk1015/sanguosha) - 文字版三国杀，10000+行java实现
+- [harry5z/Sanguosha](https://github.com/harry5z/Sanguosha) - 
 - [Game-as-a-Service/Legends-of-The-Three-Kingdoms](https://github.com/Game-as-a-Service/Legends-of-The-Three-Kingdoms) - 三國殺
 
 ## JavaScript 
 
+- [kevinychen/sanguosha](https://github.com/kevinychen/sanguosha) - Online multiplayer version of the popular Chinese card game
 - [libnoname/noname](https://github.com/libnoname/noname) - 
+
+## Others 
+
+- [sanguosha-vip/test3](https://github.com/sanguosha-vip/test3) - 
 
 ## TypeScript 
 
+- [Mogara/opensgs-ui](https://github.com/Mogara/opensgs-ui) - UI of OpenSGS
 - [Game-as-a-Service/Legends-of-The-Three-Kingdoms-FE](https://github.com/Game-as-a-Service/Legends-of-The-Three-Kingdoms-FE) - 三國殺前端
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 
