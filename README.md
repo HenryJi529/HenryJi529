@@ -91,14 +91,21 @@ Bash          15 mins               █▒░░░░░░░░░░░░�
       <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yumiaura">
+        <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
+      </a>
+      <br />
+      <a href="https://github.com/yumiaura">Olya Pimenova</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/lilaroky">
         <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>
       </a>
       <br />
       <a href="https://github.com/lilaroky">Lila</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pgsohail">
         <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>
@@ -141,6 +148,8 @@ Bash          15 mins               █▒░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/PearlyWave">Eric Ji</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Miercy">
         <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>
@@ -148,8 +157,6 @@ Bash          15 mins               █▒░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Miercy">Miercy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GreyKL">
         <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>
