@@ -84,18 +84,18 @@ JSON          23 mins               █▒░░░░░░░░░░░░�
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
-      </a>
-      <br />
-      <a href="https://github.com/pinhe91">Han Mei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yumiaura">
         <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
       </a>
       <br />
       <a href="https://github.com/yumiaura">Olya Pimenova</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pinhe91">
+        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+      </a>
+      <br />
+      <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
   </tr>
   <tr>
