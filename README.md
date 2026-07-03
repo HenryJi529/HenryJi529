@@ -15,10 +15,10 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[系统学习] JavaWeb学习笔记](https://morningstar369.com/blog/1882708407205543938)
 - [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
 - [[零碎知识] 提示词工程学习笔记](https://morningstar369.com/blog/2065351189145128962)
 - [[系统学习] Docker学习笔记](https://morningstar369.com/blog/1882703804221145090)
-- [[零碎知识] Web开发重要概念](https://morningstar369.com/blog/1882708514156101633)
 <!-- BLOG-POST-LIST:END -->
 
 ---
