@@ -63,18 +63,18 @@ Vue              1 hr 36 mins          ██░░░░░░░░░░░�
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/S4IL21">
         <img src="https://avatars2.githubusercontent.com/u/126200245" width="100px;" alt="S4IL21"/>
       </a>
       <br />
       <a href="https://github.com/S4IL21">S4IL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
