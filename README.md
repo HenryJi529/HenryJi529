@@ -107,13 +107,6 @@ TypeScript       3 hrs 23 mins         ██░░░░░░░░░░░�
       <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/milad-hub">
-        <img src="https://avatars2.githubusercontent.com/u/139052081" width="100px;" alt="milad-hub"/>
-      </a>
-      <br />
-      <a href="https://github.com/milad-hub">Milad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lilaroky">
         <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>
       </a>
@@ -148,8 +141,6 @@ TypeScript       3 hrs 23 mins         ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
@@ -157,6 +148,8 @@ TypeScript       3 hrs 23 mins         ██░░░░░░░░░░░�
       <br />
       <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PearlyWave">
         <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
