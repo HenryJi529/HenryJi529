@@ -128,6 +128,13 @@ TypeScript       4 hrs 2 mins          ██▒░░░░░░░░░░�
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
     <td align="center">
+      <a href="https://github.com/waelodeh98">
+        <img src="https://avatars2.githubusercontent.com/u/170369524" width="100px;" alt="waelodeh98"/>
+      </a>
+      <br />
+      <a href="https://github.com/waelodeh98">Wael Samer | Software Engineer</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
       </a>
@@ -141,6 +148,8 @@ TypeScript       4 hrs 2 mins          ██▒░░░░░░░░░░�
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
@@ -148,8 +157,6 @@ TypeScript       4 hrs 2 mins          ██▒░░░░░░░░░░�
       <br />
       <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/PearlyWave">
         <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>
