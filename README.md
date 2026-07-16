@@ -121,13 +121,6 @@ Other            2 hrs 30 mins         ██▒░░░░░░░░░░�
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/waelodeh98">
-        <img src="https://avatars2.githubusercontent.com/u/170369524" width="100px;" alt="waelodeh98"/>
-      </a>
-      <br />
-      <a href="https://github.com/waelodeh98">Wael Samer | Software Engineer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
       </a>
@@ -147,6 +140,13 @@ Other            2 hrs 30 mins         ██▒░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prathamparmar1">
+        <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
   </tr>
   <tr>
