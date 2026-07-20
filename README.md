@@ -91,14 +91,21 @@ Other        2 hrs 11 mins         ██▒░░░░░░░░░░░░
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Nai64">
+        <img src="https://avatars2.githubusercontent.com/u/122532548" width="100px;" alt="Nai64"/>
+      </a>
+      <br />
+      <a href="https://github.com/Nai64">Nai64</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/yumiaura">
         <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
       </a>
       <br />
       <a href="https://github.com/yumiaura">Olya Pimenova</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
@@ -141,6 +148,8 @@ Other        2 hrs 11 mins         ██▒░░░░░░░░░░░░
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
@@ -148,8 +157,6 @@ Other        2 hrs 11 mins         ██▒░░░░░░░░░░░░
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
