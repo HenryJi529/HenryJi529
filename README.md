@@ -56,6 +56,13 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
       <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
     </td>
     <td align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px;" alt="standardgalactic"/>
+      </a>
+      <br />
+      <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/cumsoft">
         <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>
       </a>
@@ -84,13 +91,6 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
       <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucasrmagalhaes">
-        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Nai64">
         <img src="https://avatars2.githubusercontent.com/u/122532548" width="100px;" alt="Nai64"/>
       </a>
@@ -99,6 +99,13 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/lucasrmagalhaes">
+        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
+    </td>
     <td align="center">
       <a href="https://github.com/yumiaura">
         <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
@@ -141,6 +148,8 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -148,8 +157,6 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
