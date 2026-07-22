@@ -111,7 +111,7 @@ Docker       1 hr 43 mins          ███░░░░░░░░░░░░
         <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
       </a>
       <br />
-      <a href="https://github.com/yumiaura">Olya Pimenova</a>
+      <a href="https://github.com/yumiaura">Olya Pi</a>
     </td>
     <td align="center">
       <a href="https://github.com/pinhe91">
