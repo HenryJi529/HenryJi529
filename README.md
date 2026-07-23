@@ -151,18 +151,18 @@ Java         1 hr 54 mins          ███░░░░░░░░░░░░
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/rohit-ghadge">
-        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
-      </a>
-      <br />
-      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
       </a>
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rohit-ghadge">
+        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
+      </a>
+      <br />
+      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
       <a href="https://github.com/LLLLM01">
