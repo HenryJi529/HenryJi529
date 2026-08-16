@@ -151,18 +151,18 @@ TypeScript   2 hrs 12 mins         █░░░░░░░░░░░░░░
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/dirkarnez">
-        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
-      </a>
-      <br />
-      <a href="https://github.com/dirkarnez">Dirk Arnez</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
       </a>
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dirkarnez">
+        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
+      </a>
+      <br />
+      <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
