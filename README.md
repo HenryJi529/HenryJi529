@@ -107,13 +107,6 @@ HTML             3 hrs 22 mins         █░░░░░░░░░░░░�
       <a href="https://github.com/Nai64">Nai64</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yumiaura">
-        <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
-      </a>
-      <br />
-      <a href="https://github.com/yumiaura">Olya Pi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
@@ -148,8 +141,6 @@ HTML             3 hrs 22 mins         █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
@@ -157,6 +148,8 @@ HTML             3 hrs 22 mins         █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
