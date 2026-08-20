@@ -107,6 +107,13 @@ YAML             3 hrs 31 mins         █▒░░░░░░░░░░░�
       <a href="https://github.com/Nai64">Nai64</a>
     </td>
     <td align="center">
+      <a href="https://github.com/giladfuchs">
+        <img src="https://avatars2.githubusercontent.com/u/33724031" width="100px;" alt="giladfuchs"/>
+      </a>
+      <br />
+      <a href="https://github.com/giladfuchs">giladfuchs</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
@@ -141,6 +148,8 @@ YAML             3 hrs 31 mins         █▒░░░░░░░░░░░�
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
@@ -148,8 +157,6 @@ YAML             3 hrs 31 mins         █▒░░░░░░░░░░░�
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
