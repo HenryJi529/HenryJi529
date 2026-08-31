@@ -91,20 +91,20 @@ Vue               45 mins               █░░░░░░░░░░░░�
       <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pwnedroot">
-        <img src="https://avatars2.githubusercontent.com/u/176189052" width="100px;" alt="pwnedroot"/>
-      </a>
-      <br />
-      <a href="https://github.com/pwnedroot">pwnedroot</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Nai64">
         <img src="https://avatars2.githubusercontent.com/u/122532548" width="100px;" alt="Nai64"/>
       </a>
       <br />
       <a href="https://github.com/Nai64">Nai64</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pwnedroot">
+        <img src="https://avatars2.githubusercontent.com/u/176189052" width="100px;" alt="pwnedroot"/>
+      </a>
+      <br />
+      <a href="https://github.com/pwnedroot">pwnedroot</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
