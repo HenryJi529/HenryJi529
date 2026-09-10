@@ -165,6 +165,13 @@ JSON              46 mins               █░░░░░░░░░░░░�
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
+      <a href="https://github.com/aramisjustin068">
+        <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
+      </a>
+      <br />
+      <a href="https://github.com/aramisjustin068">Amara Justin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
       </a>
