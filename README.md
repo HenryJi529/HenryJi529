@@ -84,21 +84,12 @@ Other             1 hr 12 mins          █░░░░░░░░░░░░�
       <a href="https://github.com/S4IL21">S4IL</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Nai64">
         <img src="https://avatars2.githubusercontent.com/u/122532548" width="100px;" alt="Nai64"/>
       </a>
       <br />
       <a href="https://github.com/Nai64">Nai64</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pwnedroot">
         <img src="https://avatars2.githubusercontent.com/u/176189052" width="100px;" alt="pwnedroot"/>
@@ -106,6 +97,8 @@ Other             1 hr 12 mins          █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/pwnedroot">pwnedroot</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
@@ -148,8 +141,6 @@ Other             1 hr 12 mins          █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
@@ -157,6 +148,8 @@ Other             1 hr 12 mins          █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -198,6 +191,13 @@ Other             1 hr 12 mins          █░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/GreyKL">GreyKL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
   </tr>
 </table>
