@@ -165,6 +165,13 @@ Vue               58 mins               █▒░░░░░░░░░░░�
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars2.githubusercontent.com/u/252406987" width="100px;" alt="alfredshingai"/>
+      </a>
+      <br />
+      <a href="https://github.com/alfredshingai">Alfred Shingai</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
       </a>
@@ -191,13 +198,6 @@ Vue               58 mins               █▒░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/GreyKL">GreyKL</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
   </tr>
 </table>
