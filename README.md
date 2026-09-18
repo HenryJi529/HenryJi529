@@ -70,18 +70,18 @@ Vue               56 mins               █▒░░░░░░░░░░░�
       <a href="https://github.com/cumsoft">cumsoft</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seniorvuejsdeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/S4IL21">
         <img src="https://avatars2.githubusercontent.com/u/126200245" width="100px;" alt="S4IL21"/>
       </a>
       <br />
       <a href="https://github.com/S4IL21">S4IL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/Nai64">
@@ -151,13 +151,6 @@ Vue               56 mins               █▒░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/rohit-ghadge">
-        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
-      </a>
-      <br />
-      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/aramisjustin068">
         <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
       </a>
@@ -170,6 +163,13 @@ Vue               56 mins               █▒░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/alfredshingai">Alfred Shingai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rohit-ghadge">
+        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
+      </a>
+      <br />
+      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
     <td align="center">
       <a href="https://github.com/LLLLM01">
