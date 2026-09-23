@@ -142,27 +142,27 @@ TypeScript       38 mins               ██▒░░░░░░░░░░�
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dirkarnez">
-        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
-      </a>
-      <br />
-      <a href="https://github.com/dirkarnez">Dirk Arnez</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/alfredshingai">
         <img src="https://avatars2.githubusercontent.com/u/252406987" width="100px;" alt="alfredshingai"/>
       </a>
       <br />
       <a href="https://github.com/alfredshingai">Alfred Shingai</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aramisjustin068">
         <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
       </a>
       <br />
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dirkarnez">
+        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
+      </a>
+      <br />
+      <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
