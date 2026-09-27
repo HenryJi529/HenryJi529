@@ -5,10 +5,15 @@
 
 ## Contents
 
+- [C#](#c#)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C# # 
+
+- [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
 
 ## Java 
 
