@@ -84,21 +84,12 @@ Bash         17 mins               █░░░░░░░░░░░░░░
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Nai64">
-        <img src="https://avatars2.githubusercontent.com/u/122532548" width="100px;" alt="Nai64"/>
-      </a>
-      <br />
-      <a href="https://github.com/Nai64">Nai64</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pwnedroot">
         <img src="https://avatars2.githubusercontent.com/u/176189052" width="100px;" alt="pwnedroot"/>
       </a>
       <br />
       <a href="https://github.com/pwnedroot">pwnedroot</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
@@ -106,6 +97,8 @@ Bash         17 mins               █░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
@@ -148,8 +141,6 @@ Bash         17 mins               █░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/alfredshingai">Alfred Shingai</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aramisjustin068">
         <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
@@ -157,6 +148,8 @@ Bash         17 mins               █░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
@@ -198,6 +191,13 @@ Bash         17 mins               █░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/GreyKL">GreyKL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yeisonxz">
+        <img src="https://avatars2.githubusercontent.com/u/334178495" width="100px;" alt="yeisonxz"/>
+      </a>
+      <br />
+      <a href="https://github.com/yeisonxz">yeisonxz</a>
     </td>
   </tr>
 </table>
