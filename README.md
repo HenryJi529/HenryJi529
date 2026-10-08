@@ -128,18 +128,18 @@ Markdown     0 secs                ░░░░░░░░░░░░░░░
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prathamparmar1">
-        <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
-      </a>
-      <br />
-      <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/aramisjustin068">
         <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
       </a>
       <br />
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prathamparmar1">
+        <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
     <td align="center">
       <a href="https://github.com/alfredshingai">
