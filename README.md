@@ -128,13 +128,6 @@ YAML         25 mins               █░░░░░░░░░░░░░░
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars2.githubusercontent.com/u/252406987" width="100px;" alt="alfredshingai"/>
-      </a>
-      <br />
-      <a href="https://github.com/alfredshingai">Alfred Shingai</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
       </a>
@@ -148,8 +141,6 @@ YAML         25 mins               █░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
@@ -157,6 +148,8 @@ YAML         25 mins               █░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -198,6 +191,13 @@ YAML         25 mins               █░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/yeisonxz">yeisonxz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
   </tr>
 </table>
