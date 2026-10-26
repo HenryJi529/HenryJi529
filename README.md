@@ -128,18 +128,18 @@ TypeScript        4 mins                ▒░░░░░░░░░░░░�
       <a href="https://github.com/aramisjustin068">Amara Justin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prathamparmar1">
-        <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
-      </a>
-      <br />
-      <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
       </a>
       <br />
       <a href="https://github.com/CallbackCat777">CallBack Cat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prathamparmar1">
+        <img src="https://avatars2.githubusercontent.com/u/182216275" width="100px;" alt="prathamparmar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
     <td align="center">
       <a href="https://github.com/dirkarnez">
