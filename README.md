@@ -121,13 +121,6 @@ SQL               10 mins               █░░░░░░░░░░░░�
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/aramisjustin068">
-        <img src="https://avatars2.githubusercontent.com/u/324572675" width="100px;" alt="aramisjustin068"/>
-      </a>
-      <br />
-      <a href="https://github.com/aramisjustin068">Amara Justin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
       </a>
@@ -148,8 +141,6 @@ SQL               10 mins               █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -157,6 +148,8 @@ SQL               10 mins               █░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
