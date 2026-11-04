@@ -91,14 +91,21 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <a href="https://github.com/pwnedroot">pwnedroot</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shahidazam2020-oss">
+        <img src="https://avatars2.githubusercontent.com/u/242987063" width="100px;" alt="shahidazam2020-oss"/>
+      </a>
+      <br />
+      <a href="https://github.com/shahidazam2020-oss">Shahid Azam</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/lucasrmagalhaes">
         <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>
       </a>
       <br />
       <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
@@ -141,6 +148,8 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -148,8 +157,6 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
