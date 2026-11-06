@@ -128,6 +128,13 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lxlynx">
+        <img src="https://avatars2.githubusercontent.com/u/324573839" width="100px;" alt="lxlynx"/>
+      </a>
+      <br />
+      <a href="https://github.com/lxlynx">Alexander Cardoza</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CallbackCat777">
         <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>
       </a>
@@ -141,6 +148,8 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/prathamparmar1">Pratham Parmar</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dirkarnez">
         <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>
@@ -148,8 +157,6 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/dirkarnez">Dirk Arnez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rohit-ghadge">
         <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>
@@ -191,13 +198,6 @@ Bash         4 mins                ▓░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/yeisonxz">yeisonxz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
   </tr>
 </table>
